@@ -42,10 +42,21 @@ def draw_block(draw, lines, fnt, x, y, fill, gap):
         y += fnt.size + gap
     return y
 
+# Optional per-spec brand: {"brand": "propertyalerts", "slides": [...]}. Default is CertTrack.
+BRAND = {"name": "CertTrack", "icon": True}
+BRANDS = {
+    "propertyalerts": {"name": "Property Alerts USA", "icon": False,
+                       "NAVY": (13, 74, 62), "AMBER": (126, 231, 176)},
+}
+
 def badge(img, draw, W, H, dark):
-    ic = Image.open(os.path.join(HERE, "icon_white.png" if dark else "icon_blue.png")).resize((48, 48), Image.LANCZOS)
-    img.paste(ic, (88, H - 145), ic)
-    draw.text((150, H - 141), "CertTrack", font=font("Bold", 36), fill=PAPER if dark else INK)
+    if BRAND["icon"]:
+        ic = Image.open(os.path.join(HERE, "icon_white.png" if dark else "icon_blue.png")).resize((48, 48), Image.LANCZOS)
+        img.paste(ic, (88, H - 145), ic)
+    else:
+        draw.ellipse((92, H - 139, 132, H - 99), outline=AMBER, width=6)
+        draw.ellipse((104, H - 127, 120, H - 111), fill=AMBER)
+    draw.text((150, H - 141), BRAND["name"], font=font("Bold", 36), fill=PAPER if dark else INK)
 
 def render(slide, idx, total, W, H):
     kind = slide.get("kind", "point")
@@ -149,6 +160,11 @@ def render(slide, idx, total, W, H):
 
 def main(spec_path, out_dir):
     spec = json.load(open(spec_path))
+    b = BRANDS.get(spec.get("brand", ""))
+    if b:
+        global NAVY, AMBER
+        BRAND.update(name=b["name"], icon=b["icon"])
+        NAVY, AMBER = b["NAVY"], b["AMBER"]
     os.makedirs(out_dir, exist_ok=True)
     slides = spec["slides"]
     for i, s in enumerate(slides, 1):
