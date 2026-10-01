@@ -49,7 +49,7 @@ def badge(img, draw, W, H, dark):
 
 def render(slide, idx, total, W, H):
     kind = slide.get("kind", "point")
-    dark = kind in ("hook", "cta")
+    dark = kind in ("hook", "cta", "statement")
     img = Image.new("RGB", (W, H), NAVY if dark else PAPER)
     d = ImageDraw.Draw(img)
     pad = 90
@@ -77,6 +77,58 @@ def render(slide, idx, total, W, H):
         bw = d.textlength(label, font=bt) + 100
         d.rounded_rectangle((pad, y + 60, pad + bw, y + 160), radius=50, fill=AMBER)
         d.text((pad + 50, y + 85), label, font=bt, fill=NAVY)
+    elif kind == "statement":
+        # one big bold line on brand blue: hot takes, questions, "POV:" lines
+        t = font("Bold", 100)
+        lines = wrap(d, slide["title"], t, maxw)
+        y0 = (H - fb) // 2 - len(lines) * (t.size + 16) // 2 - 60
+        if slide.get("label"):
+            d.text((pad, y0 - 90), slide["label"].upper(), font=font("Bold", 40), fill=AMBER)
+        y = draw_block(d, lines, t, pad, y0, PAPER, 16)
+        if slide.get("body"):
+            b = font("Medium", 46)
+            draw_block(d, wrap(d, slide["body"], b, maxw), b, pad, y + 40, (214, 222, 240), 12)
+        if idx == 1 and total > 1:
+            d.text((pad, H - 230 - fb), "swipe →", font=font("SemiBold", 36), fill=AMBER)
+    elif kind == "myth":
+        lab = font("Bold", 40)
+        RED, GRN = (200, 60, 50), (30, 140, 90)
+        d.rounded_rectangle((pad, top - 120, pad + 170, top - 50), radius=35, fill=RED)
+        d.text((pad + 36, top - 109), "MYTH", font=lab, fill=PAPER)
+        t = font("Bold", 62)
+        y = draw_block(d, wrap(d, slide["myth"], t, maxw), t, pad, top, (110, 115, 125), 12)
+        y += 70
+        d.rounded_rectangle((pad, y, pad + 160, y + 70), radius=35, fill=GRN)
+        d.text((pad + 38, y + 11), "FACT", font=lab, fill=PAPER)
+        b = font("SemiBold", 52)
+        draw_block(d, wrap(d, slide["fact"], b, maxw), b, pad, y + 120, INK, 14)
+    elif kind == "checklist":
+        t = font("Bold", 70)
+        y = draw_block(d, wrap(d, slide["title"], t, maxw), t, pad, top - 60, INK, 12) + 50
+        it = font("Medium", 46)
+        for item in slide.get("items", []):
+            d.rounded_rectangle((pad, y + 4, pad + 52, y + 56), radius=10, outline=NAVY, width=5)
+            d.line((pad + 12, y + 30, pad + 24, y + 44, pad + 42, y + 16), fill=AMBER, width=7)
+            ls = wrap(d, item, it, maxw - 90)
+            y = draw_block(d, ls, it, pad + 90, y + 4, INK, 10) + 34
+    elif kind == "compare":
+        t = font("Bold", 66)
+        y = draw_block(d, wrap(d, slide["title"], t, maxw), t, pad, top - 60, INK, 12) + 50
+        colw = (maxw - 40) // 2
+        hf, itf = font("Bold", 42), font("Medium", 36)
+        for ci, (lbl, items, col) in enumerate(((slide["left_label"], slide["left"], (200, 60, 50)),
+                                                (slide["right_label"], slide["right"], NAVY))):
+            x = pad + ci * (colw + 40)
+            d.rounded_rectangle((x, y, x + colw, y + 80), radius=16, fill=col)
+            d.text((x + 28, y + 17), lbl, font=hf, fill=PAPER)
+            yy = y + 120
+            for item in items:
+                if ci == 0:
+                    d.line((x + 8, yy + 10, x + 34, yy + 36), fill=col, width=6)
+                    d.line((x + 34, yy + 10, x + 8, yy + 36), fill=col, width=6)
+                else:
+                    d.line((x + 6, yy + 24, x + 16, yy + 36, x + 36, yy + 8), fill=col, width=6)
+                yy = draw_block(d, wrap(d, item, itf, colw - 60), itf, x + 56, yy, INK, 8) + 28
     else:
         num = slide.get("num", str(idx))
         nf = font("Bold", 200)
