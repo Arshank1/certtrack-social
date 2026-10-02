@@ -1,0 +1,13 @@
+{"format":"texts","mood":"tense","theme":"amber","seed":418,"music":"library",
+ "hook":"POV: the inspector asks for *everyone's* CPR cards",
+ "contact":"Dana - Clinic Mgr",
+ "messages":[
+  {"from":"them","text":"inspector is here. wants staff CPR cards"},
+  {"from":"me","text":"they're all in the binder"},
+  {"from":"them","text":"found the binder. checking dates now"},
+  {"from":"them","text":"two of them expired in august"},
+  {"from":"me","text":"who??"},
+  {"from":"them","text":"me. and you."}
+ ],
+ "punchline":"The binder kept the cards. Not the *dates*.",
+ "cta":{"title":"Stop trusting *the binder*","body":"CertTrack tracks every license, cert and policy and alerts you before anything expires.","button":"Link in bio"}}
