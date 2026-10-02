@@ -77,5 +77,28 @@
   ],
   "seconds": 21.7,
   "brand": "certtrack"
+ },
+ {
+  "date": "2026-10-01-1919",
+  "postiz_id": "cmuqc7dgr09h1nv0ysfg4e409",
+  "format": "alerts",
+  "mood": "chill",
+  "theme": "navy",
+  "track": "7414337459180505104",
+  "topic": "Fleet renewals: commercial auto policy, truck registration, driver medical card",
+  "angle": "product",
+  "industry": "fleets/trucking",
+  "hook": "Fleet owners: this is what a calm renewal season looks like",
+  "caption": "Fleet owners: this is what a calm renewal season looks like",
+  "hashtags": [
+   "#truckertok",
+   "#fleetmanagement",
+   "#businesstok",
+   "#operations",
+   "#insurance",
+   "#smallbusinesstips"
+  ],
+  "seconds": 18.9,
+  "brand": "certtrack"
  }
 ]
