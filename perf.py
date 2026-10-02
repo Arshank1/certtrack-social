@@ -10,7 +10,8 @@ Data lives in perf/log.json (one entry per post) and perf/insights.md (running n
 
 FIELDS for add: date (Pacific YYYY-MM-DD-HHMM), postiz_id, brand, format, mood, theme, topic,
   angle (pov|listicle|myth|checklist|hot_take|tip|quiz|industry|story|comparison|product),
-  industry, hook, caption, hashtags (list), seconds, track (TikTok music id or "synth"/"auto")
+  industry, hook, caption, hashtags (list), seconds, track (TikTok music id or "synth"/"auto"),
+  trend (name of the trend recipe from perf/trends.md, or "none"), cta ("product" if the caption pitched CertTrack, else "none")
 """
 import json, os, sys, random, datetime
 from collections import defaultdict
@@ -60,25 +61,33 @@ def group(rows, key):
         out.append((k, len(rs), sum(vs) / len(vs), sum(er) / len(er), sum(sc) / len(sc)))
     return sorted(out, key=lambda x: -x[4])
 
+VIDEO_FORMATS = ["kinetic", "texts", "countdown", "notes", "quiz", "alerts"]
+
 def pick_next(rows, brand="certtrack"):
+    """Photo carousels (slideshow) are the backbone: on 2026-10-01/02 the 5 carousels with TikTok auto music got
+    ~800 views each while generated videos got ~15. Videos stay as experiments, at most 1 in every 3 posts,
+    until their average views reach half of the carousels' average (then normal data-weighted rotation resumes)."""
     rows = [r for r in rows if r.get("brand", "certtrack") == brand]
     recent = [r["format"] for r in rows[-5:]]
-    last = recent[-1] if recent else None
-    cands = [f for f in FORMATS if f != last and recent.count(f) < 2]
-    if "slideshow" in cands and "slideshow" in recent[-4:]:
-        cands.remove("slideshow")  # slideshows at most 1 in 5
-    stats = {k: (n, sc) for k, n, _, _, sc in group(rows, "format")}
-    unexplored = [f for f in cands if stats.get(f, (0, 0))[0] < 3]
+    stats = {k: (n, sc, v) for k, n, v, _, sc in group(rows, "format")}
     rnd = random.Random(datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d%H"))
-    # owner's favourite: bring texts back roughly every 3rd post (never twice in a row)
-    if "texts" in cands and "texts" not in recent[-2:] and rnd.random() < 0.6:
-        return "texts", "owner's favourite format"
-    if unexplored and (len(unexplored) == len(cands) or rnd.random() < 0.4):
+    ss = stats.get("slideshow", (0, 0, 0))[2]
+    vids = [stats[f] for f in VIDEO_FORMATS if f in stats]
+    vavg = (sum(v[2] * v[0] for v in vids) / sum(v[0] for v in vids)) if vids else 0
+    videos_caught_up = ss and vavg >= 0.5 * ss
+    if not videos_caught_up:
+        if any(f in VIDEO_FORMATS for f in recent[-2:]):
+            return "slideshow", "carousels far outperform videos; videos limited to 1 in 3"
+        # video experiment slot: favour the owner's favourite, otherwise the least-tested video format
+        if "texts" not in recent[-5:] and rnd.random() < 0.5:
+            return "texts", "video experiment (owner's favourite format)"
         use = defaultdict(int)
         for r in rows:
             use[r["format"]] += 1
-        unexplored.sort(key=lambda f: (use[f], rnd.random()))
-        return unexplored[0], "exploring (not enough data on this format yet)"
+        cands = sorted([f for f in VIDEO_FORMATS if f not in recent], key=lambda f: (use[f], rnd.random()))
+        return (cands or VIDEO_FORMATS)[0], "video experiment (least-tested format)"
+    last = recent[-1] if recent else None
+    cands = [f for f in FORMATS if f != last or f == "slideshow"]
     scored = [(f, stats[f][1] * OWNER_BOOST.get(f, 1.0)) for f in cands if f in stats and stats[f][0] >= 3]
     if not scored:
         return rnd.choice(cands), "random among allowed"
@@ -94,7 +103,7 @@ def report(brand="certtrack"):
     rows = [r for r in load() if r.get("brand", "certtrack") == brand]
     with_stats = [r for r in rows if r.get("stats")]
     print(f"{len(rows)} posts logged, {len(with_stats)} with TikTok stats.\n")
-    for key in ("format", "mood", "angle", "industry"):
+    for key in ("format", "trend", "angle", "mood", "industry"):
         g = group(rows, key)
         if g:
             print(f"By {key}:  (name, posts, avg views, avg engagement rate, score)")

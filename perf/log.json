@@ -8,7 +8,11 @@
   "angle": "listicle",
   "industry": "general",
   "hook": "5 business documents that quietly expire",
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 800,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-1410",
@@ -19,7 +23,11 @@
   "angle": "pov",
   "industry": "contractors",
   "hook": "POV: the client needs your insurance certificate by Monday",
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 800,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-1518",
@@ -30,7 +38,11 @@
   "angle": "myth",
   "industry": "general",
   "hook": "4 license renewal myths that quietly cost businesses money",
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 800,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-1618",
@@ -41,7 +53,11 @@
   "angle": "checklist",
   "industry": "restaurants/retail",
   "hook": "Hiring seasonal staff? Save this checklist",
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 800,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-1718",
@@ -53,7 +69,11 @@
   "angle": "industry",
   "industry": "landscaping",
   "hook": "Landscapers: 9 dates you cant let lapse",
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 800,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-1818",
@@ -99,7 +119,11 @@
    "#smallbusinesstips"
   ],
   "seconds": 18.9,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-01-2018",
@@ -122,7 +146,11 @@
    "#foryou"
   ],
   "seconds": 20.1,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-02-0818",
@@ -145,7 +173,11 @@
    "#landlord"
   ],
   "seconds": 19.9,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-02-0918",
@@ -168,7 +200,11 @@
    "#cleaningbusiness"
   ],
   "seconds": 22.9,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-02-1018",
@@ -192,7 +228,11 @@
    "#constructiontok"
   ],
   "seconds": 31.3,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-02-1118",
@@ -215,7 +255,11 @@
    "#businessowner"
   ],
   "seconds": 32.4,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  },
  {
   "date": "2026-10-02-1218",
@@ -238,6 +282,10 @@
    "#businessowner"
   ],
   "seconds": 22.0,
-  "brand": "certtrack"
+  "brand": "certtrack",
+  "stats": {
+   "views": 15,
+   "checked": "2026-10-02"
+  }
  }
 ]
