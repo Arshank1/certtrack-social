@@ -18,6 +18,9 @@ from collections import defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOG = os.path.join(HERE, "perf", "log.json")
 FORMATS = ["kinetic", "texts", "countdown", "notes", "quiz", "alerts", "slideshow"]
+# Owner preference (2026-10-01): likes the text-message story format most, quiz too. >1 = shown more often.
+OWNER_BOOST = {"texts": 1.6, "quiz": 1.1}
+
 MOOD_FOR = {  # default + allowed alternatives, so music always fits the vibe
     "kinetic":   ["confident", "dramatic", "tense"],
     "texts":     ["tense", "playful"],
@@ -67,13 +70,16 @@ def pick_next(rows, brand="certtrack"):
     stats = {k: (n, sc) for k, n, _, _, sc in group(rows, "format")}
     unexplored = [f for f in cands if stats.get(f, (0, 0))[0] < 3]
     rnd = random.Random(datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d%H"))
+    # owner's favourite: bring texts back roughly every 3rd post (never twice in a row)
+    if "texts" in cands and "texts" not in recent[-2:] and rnd.random() < 0.6:
+        return "texts", "owner's favourite format"
     if unexplored and (len(unexplored) == len(cands) or rnd.random() < 0.4):
         use = defaultdict(int)
         for r in rows:
             use[r["format"]] += 1
         unexplored.sort(key=lambda f: (use[f], rnd.random()))
         return unexplored[0], "exploring (not enough data on this format yet)"
-    scored = [(f, stats[f][1]) for f in cands if f in stats and stats[f][0] >= 3]
+    scored = [(f, stats[f][1] * OWNER_BOOST.get(f, 1.0)) for f in cands if f in stats and stats[f][0] >= 3]
     if not scored:
         return rnd.choice(cands), "random among allowed"
     tot = sum(s for _, s in scored) or 1
