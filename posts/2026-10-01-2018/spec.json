@@ -1,0 +1,32 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "paper",
+ "seed": 417,
+ "music": "library",
+ "hook": "Salon owners: check these *tonight*",
+ "title": "4 things salon owners forget to *renew*",
+ "items": [
+  {
+   "title": "Salon / shop license",
+   "body": "The shop itself may need its own license. Lapse it and fines can follow."
+  },
+  {
+   "title": "Stylist licenses",
+   "body": "Every stylist and booth renter has their own expiration date."
+  },
+  {
+   "title": "Liability insurance",
+   "body": "Landlords and clients may ask for proof. A lapse leaves you exposed."
+  },
+  {
+   "title": "Business license",
+   "body": "Your city or county license usually renews on its own date. Easy to miss."
+  }
+ ],
+ "cta": {
+  "title": "Never miss a *renewal*",
+  "body": "CertTrack tracks every license and policy and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
