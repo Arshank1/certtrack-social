@@ -1,0 +1,44 @@
+{
+ "_note": "TikTok Business commercial music library tracks (ids from Postiz musicSearch), grouped by mood. Attach via the TikTok 'music' setting. Rotate; don't reuse the same track in back-to-back posts. Add new finds here; drop ids that fail.",
+ "chill": [
+  {"id": "7426811894536849424", "title": "Relaxed and chill lofi hip hop long version"},
+  {"id": "6974498540722587649", "title": "Lofi-hip hop I want to listen to alone"},
+  {"id": "7065600590520256514", "title": "Urban Night Oasis Chill LoFi_R & B"},
+  {"id": "7455364067202287633", "title": "Walkdown in F (Chill Piano)"},
+  {"id": "7485403767782639617", "title": "silhouettes (snoozy beats)"},
+  {"id": "7414337459180505104", "title": "Morning Coffee (Art Bove)"}
+ ],
+ "upbeat": [
+  {"id": "7347364004949706753", "title": "Happy Every Day"},
+  {"id": "7075908388312139777", "title": "Run / seaside / early morning EDM loop"},
+  {"id": "7179707815563364354", "title": "Fashionable + cute + city pop"},
+  {"id": "7653283194855065617", "title": "Back To You (Extended Mix)"},
+  {"id": "7363314838511175697", "title": "Ok I Like It (Milky Chance)"}
+ ],
+ "tense": [
+  {"id": "7316670019470985217", "title": "Kiki (crisis)"},
+  {"id": "7316669938881906690", "title": "Panic!!"},
+  {"id": "7561635233814284305", "title": "Mysterious case files, echoing electronic sounds"},
+  {"id": "7316669896233650177", "title": "Exploring a suspicious mansion BGM"}
+ ],
+ "dramatic": [
+  {"id": "7586682322754914320", "title": "Last Door (Epic Inspiration)"},
+  {"id": "6954097154013022210", "title": "Serious piano drama"},
+  {"id": "6817215528218658818", "title": "Trendy concept movie BGM sound 3"},
+  {"id": "7386645591810951185", "title": "ROI (Slowed + Reverb)"}
+ ],
+ "playful": [
+  {"id": "7388068015306770448", "title": "Trivia Tunes"},
+  {"id": "7068536891897612290", "title": "Cartoon"},
+  {"id": "6895833728690423809", "title": "Rust, comical"},
+  {"id": "7642165250439317520", "title": "Sunny and cheerful pizzicato"},
+  {"id": "7024585715920930817", "title": "mischief"}
+ ],
+ "confident": [
+  {"id": "7681978732932401153", "title": "A Confident Push"},
+  {"id": "7338118640749365249", "title": "positive, confident, progress, corporate"},
+  {"id": "6830461450281027586", "title": "Determination, strength of will"},
+  {"id": "7356850319106115600", "title": "DON'T STOP - Slowed"},
+  {"id": "7664670418251188225", "title": "Power Resistance"}
+ ]
+}
