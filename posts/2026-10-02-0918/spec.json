@@ -1,0 +1,14 @@
+{"format":"texts","mood":"playful","theme":"navy","seed":731,"music":"library",
+ "hook":"POV: your renewal notice became a *coaster*",
+ "contact":"Jess - Office",
+ "messages":[
+  {"from":"them","text":"what's the blue envelope under your coffee mug?"},
+  {"from":"me","text":"my coaster. why"},
+  {"from":"them","text":"it's from the city. it says RENEWAL NOTICE"},
+  {"from":"me","text":"renewal of what lol"},
+  {"from":"them","text":"our business license. due friday"},
+  {"from":"me","text":"ok we have time. which friday?"},
+  {"from":"them","text":"last friday"}
+ ],
+ "punchline":"Our reminder system had a *coffee ring* on it.",
+ "cta":{"title":"Retire the *coaster* system","body":"CertTrack tracks every license, permit and policy and alerts you before anything expires.","button":"Link in bio"}}
