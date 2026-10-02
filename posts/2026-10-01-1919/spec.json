@@ -1,0 +1,10 @@
+{"format":"alerts","mood":"chill","theme":"navy","seed":417,"music":"library",
+ "hook":"Fleet owners: this is what a *calm* renewal season looks like",
+ "setup":"6 trucks. 6 drivers. Zero sticky notes.",
+ "alerts":[
+  {"title":"Commercial auto policy","body":"Renews soon. Time to compare quotes.","when":"60 days before"},
+  {"title":"Truck 4 registration","body":"Expires next month. Renew it now.","when":"30 days before"},
+  {"title":"Driver medical card - Dan","body":"Book his DOT physical this week.","when":"30 days before"}
+ ],
+ "payoff":"No surprises. No trucks parked. Just *reminders*.",
+ "cta":{"title":"Never miss a renewal again","body":"CertTrack tracks every license, permit and policy and alerts you before it expires.","button":"Link in bio"}}
