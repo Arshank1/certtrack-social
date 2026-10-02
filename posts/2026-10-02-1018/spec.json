@@ -1,0 +1,9 @@
+{"format":"quiz","mood":"playful","theme":"dark","seed":417,"music":"library",
+ "hook":"Contractors: can you pass this *COI* quiz?",
+ "title":"Certificate of insurance *quiz* for contractors",
+ "questions":[
+  {"q":"A client asks for your COI. What are they really checking?","options":["Your credit score","That your coverage is active","Your bank balance"],"answer":1,"why":"A COI is proof your policies are in force on the dates shown."},
+  {"q":"Your general liability policy renews next month. Is your old COI still good after that?","options":["Yes, forever","No, it shows the old dates"],"answer":1,"why":"Each COI lists policy dates. After renewal, clients often ask for a fresh one."},
+  {"q":"Who usually notices an expired COI first?","options":["You","The client or GC","Nobody, ever"],"answer":1,"why":"Often it's the client, right before they hold a payment or pull you off a job."}
+ ],
+ "cta":{"title":"Never chase a COI again","body":"CertTrack tracks every policy and license and alerts you before anything expires.","button":"Link in bio"}}
