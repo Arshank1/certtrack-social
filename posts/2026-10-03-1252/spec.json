@@ -1,0 +1,29 @@
+{
+ "format": "alerts",
+ "mood": "dramatic",
+ "theme": "dark",
+ "seed": 613,
+ "music": "synth",
+ "hook": "POV: fleet renewal season, but the music thinks it's a disaster",
+ "clock": "6:12",
+ "date": "Monday, October 5",
+ "setup": "Fleet renewal season, *zero* drama",
+ "alerts": [
+  {
+   "title": "Driver medical card: 60 days",
+   "body": "Marcus already booked his exam. Calm.",
+   "when": "60 days before"
+  },
+  {
+   "title": "IFTA decals for next year",
+   "body": "Renewal submitted. Decals before January.",
+   "when": "45 days before"
+  },
+  {
+   "title": "Auto liability policy: 14 days",
+   "body": "The agent already sent the new certificate.",
+   "when": "14 days before"
+  }
+ ],
+ "payoff": "Music: getting louder. Disasters: *zero*."
+}
