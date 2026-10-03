@@ -331,5 +331,28 @@
    "#restauranttok"
   ],
   "brand": "certtrack"
+ },
+ {
+  "date": "2026-10-03-1252",
+  "postiz_id": "cmustjpbb00x8o40yvylza5fs",
+  "format": "alerts",
+  "mood": "dramatic",
+  "theme": "dark",
+  "track": "synth",
+  "trend": "saxophones-getting-louder",
+  "cta": "product",
+  "topic": "Fleet renewal season with zero drama: driver medical card, IFTA decals, auto liability policy handled early",
+  "angle": "trend",
+  "industry": "fleets/trucking",
+  "hook": "POV: fleet renewal season, but the music thinks it's a disaster",
+  "caption": "Fleet renewal season playing dramatic music for absolutely no reason",
+  "hashtags": [
+   "#businesstok",
+   "#compliance",
+   "#truckertok",
+   "#businessowner"
+  ],
+  "seconds": 18.9,
+  "brand": "certtrack"
  }
 ]
