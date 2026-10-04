@@ -398,5 +398,28 @@
    "#businesstips"
   ],
   "brand": "certtrack"
+ },
+ {
+  "date": "2026-10-04-1252",
+  "postiz_id": "cmuu8pvjl02moo40ykj2e623y",
+  "format": "texts",
+  "mood": "playful",
+  "theme": "dark",
+  "track": "7642165250439317520",
+  "trend": "pov-panic",
+  "cta": "product",
+  "topic": "Property manager: building owner asks if the snow removal vendor COI is current; the one in the folder expired 09/30",
+  "angle": "pov",
+  "industry": "property management",
+  "hook": "POV: the owner asks if the snow vendor's insurance is current",
+  "caption": "When the owner asks if the snow guy's insurance is current and you open the folder\u2026",
+  "hashtags": [
+   "#officemanager",
+   "#compliance",
+   "#propertymanagement",
+   "#insurance"
+  ],
+  "seconds": 21.8,
+  "brand": "certtrack"
  }
 ]
