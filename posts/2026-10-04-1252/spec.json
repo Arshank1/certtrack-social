@@ -1,0 +1,12 @@
+{"format":"texts","mood":"playful","theme":"dark","seed":631,"music":"library",
+ "hook":"POV: the owner asks if the snow vendor's insurance is *current*",
+ "contact":"Mr. Patel - Building Owner",
+ "messages":[
+  {"from":"them","text":"quick one. snow removal guys start next month"},
+  {"from":"them","text":"we have their current insurance certificate right?"},
+  {"from":"me","text":"yep, it's in the vendor folder"},
+  {"from":"them","text":"the one that says expires 09/30?"},
+  {"from":"me","text":"define current"},
+  {"from":"them","text":"I'll wait"}
+ ],
+ "punchline":"Vendor certificates expire on *their* schedule. Not yours."}
