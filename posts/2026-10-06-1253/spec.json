@@ -1,0 +1,13 @@
+{"format":"texts","mood":"tense","theme":"amber","seed":274,"music":"library",
+ "hook":"POV: your driver texts you from the *weigh station*",
+ "contact":"Marcus - Truck 14",
+ "messages":[
+  {"from":"them","text":"pulled in at the scale"},
+  {"from":"them","text":"officer wants to see my medical card"},
+  {"from":"me","text":"it's in your wallet right?"},
+  {"from":"them","text":"yeah"},
+  {"from":"them","text":"it says it expired in august"},
+  {"from":"me","text":"how is it october already"}
+ ],
+ "punchline":"Med cards, registrations, permits. They all expire on *their* schedule.",
+ "cta":{"title":"Every expiration date, one place","body":"CertTrack tracks your licenses, permits and policies and alerts you before they expire.","button":"Link in bio"}}
