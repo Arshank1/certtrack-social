@@ -532,5 +532,28 @@
    "#restauranttok"
   ],
   "brand": "certtrack"
+ },
+ {
+  "date": "2026-10-06-1253",
+  "postiz_id": "cmux3lplz06pko50y1tklp0q0",
+  "format": "texts",
+  "mood": "tense",
+  "theme": "amber",
+  "track": "7316669938881906690",
+  "trend": "pov-panic",
+  "cta": "product",
+  "topic": "Fleet manager: driver at the weigh station, officer asks for medical card, it expired in August; med cards, registrations, permits expire on their own schedule",
+  "angle": "pov",
+  "industry": "fleets/trucking",
+  "hook": "POV: your driver texts you from the weigh station",
+  "caption": "That text from the scale house that makes your stomach drop.",
+  "hashtags": [
+   "#smallbusiness",
+   "#businessowner",
+   "#truckertok",
+   "#fleetmanagement"
+  ],
+  "seconds": 21.9,
+  "brand": "certtrack"
  }
 ]
