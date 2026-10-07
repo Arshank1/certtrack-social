@@ -1,0 +1,22 @@
+{
+ "format": "kinetic",
+ "mood": "confident",
+ "theme": "amber",
+ "seed": 583,
+ "music": "synth",
+ "hook": "Tell me you're a property manager without telling me",
+ "lines": [
+  {
+   "label": "Tell me without telling me",
+   "text": "Property managers, *go*."
+  },
+  "Six vendors. Six *different* expiry months.",
+  "Plumber's insurance lapsed in *July*. Found out today.",
+  "Filing system: a folder called *misc*."
+ ],
+ "cta": {
+  "title": "Retire the misc folder",
+  "body": "CertTrack tracks vendor COIs, licenses and permits and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
