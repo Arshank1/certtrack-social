@@ -1,0 +1,15 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "paper",
+ "seed": 417,
+ "music": "library",
+ "hook": "Gold star behaviour for *landscapers* this fall",
+ "title": "Gold star behaviour: *landscaper* edition",
+ "items": [
+  {"title": "Renewing the business license before it lapses", "body": "Not the week after. Not 'probably fine'."},
+  {"title": "COI ready before the HOA asks", "body": "One PDF. Current dates. Sent in a minute."},
+  {"title": "Checking the applicator license date", "body": "In some states it runs on the calendar year. Check yours."},
+  {"title": "Insurance checked BEFORE snow season", "body": "New work, new trucks, new questions from the agent."}
+ ]
+}
