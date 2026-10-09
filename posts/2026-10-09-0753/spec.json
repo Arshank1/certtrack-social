@@ -1,0 +1,18 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 268,
+ "music": "library",
+ "hook": "Restaurant owners: spot the *red flags* in this vendor text",
+ "contact": "Hood Cleaning Guy",
+ "messages": [
+  {"from": "me", "text": "can you send your COI before thursday?"},
+  {"from": "them", "text": "my what"},
+  {"from": "them", "text": "oh the insurance thing. yeah i have it somewhere"},
+  {"from": "them", "text": "it's basically current"},
+  {"from": "them", "text": "can i send it after the job"}
+ ],
+ "punchline": "Every single one is a *red flag*. Get the COI first, and check the date.",
+ "cta": {"title": "Vendor COIs expire too", "body": "CertTrack tracks your licenses, permits and insurance, and alerts you before they expire.", "button": "Link in bio"}
+}
