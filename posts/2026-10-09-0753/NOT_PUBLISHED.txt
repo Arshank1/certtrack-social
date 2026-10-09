@@ -1,0 +1,4 @@
+Not published. Postiz accepted both posts, then both went to state ERROR with error null (TikTok video + Instagram 4-image carousel).
+Same silent failure as the 2026-10-08-1252 and 2026-10-08-1754 runs. Last successful publish: 2026-10-08 7:54 AM PT.
+Only two channels now listed in Postiz (CertTrack TikTok Business, CertTrack Instagram standalone).
+Postiz ids: cmv13a4xp03k8np0yjs0cbtzk (tiktok) cmv13a7ci03k9np0ywsgdbjjy (instagram)
