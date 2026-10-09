@@ -1,0 +1,18 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "amber",
+ "seed": 731,
+ "music": "library",
+ "hook": "POV: you run a *food truck* and the fall festival texts you the night before",
+ "contact": "Harvest Fest - Vendors",
+ "messages": [
+  {"from": "them", "text": "hi! final vendor check for tomorrow"},
+  {"from": "them", "text": "please send your health permit + insurance cert tonight"},
+  {"from": "me", "text": "on it"},
+  {"from": "me", "text": "found the permit"},
+  {"from": "me", "text": "it expired in august"},
+  {"from": "them", "text": "..."}
+ ],
+ "punchline": "Festival season has a *paperwork* season. Check your dates before you book."
+}
