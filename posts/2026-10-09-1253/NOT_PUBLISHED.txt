@@ -1,0 +1,4 @@
+Not published. Postiz accepted both posts (uploads succeeded), then both went to state ERROR with error null within a minute (TikTok texts video with library track 7388068015306770448 + Instagram video post).
+4th run in a row with the same silent failure (2026-10-08-1252, 2026-10-08-1754, 2026-10-09-0753, this one) across video and image posts on both channels. Last successful publish: 2026-10-08 7:54 AM PT.
+Likely cause is on the Postiz/channel side (expired channel auth or media pull failing); channels probably need reconnecting in Postiz.
+Postiz ids: cmv1dxj6406osnp0yaup3ituk (tiktok) cmv1dxl3806oxnp0ytgvoweim (instagram)
