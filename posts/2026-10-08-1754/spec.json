@@ -1,0 +1,37 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 583,
+ "music": "synth",
+ "hook": "POV: first cold week and the client wants your *COI* by morning",
+ "contact": "Dana - Office",
+ "messages": [
+  {
+   "from": "them",
+   "text": "property co wants our COI before tomorrow"
+  },
+  {
+   "from": "me",
+   "text": "send the one in the folder"
+  },
+  {
+   "from": "them",
+   "text": "it expired last month"
+  },
+  {
+   "from": "them",
+   "text": "agent says the renewal went out in sept"
+  },
+  {
+   "from": "them",
+   "text": "to the guy who quit"
+  }
+ ],
+ "punchline": "Nobody forgot the renewal. It just went to the *wrong inbox*.",
+ "cta": {
+  "title": "Dates in one place, not one inbox",
+  "body": "CertTrack tracks your licenses, permits and policies and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
