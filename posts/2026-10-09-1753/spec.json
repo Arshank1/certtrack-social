@@ -1,0 +1,18 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 418,
+ "music": "library",
+ "hook": "POV: it's October and the client wants a *current* insurance cert",
+ "contact": "Boss",
+ "messages": [
+  {"from": "them", "text": "new client wants our insurance cert before they sign"},
+  {"from": "me", "text": "easy, sending it now"},
+  {"from": "me", "text": "wait"},
+  {"from": "me", "text": "the one on file ended sept 30"},
+  {"from": "them", "text": "did we renew??"},
+  {"from": "me", "text": "calling the agent. on hold. the hold music is very calm"}
+ ],
+ "punchline": "Q4 is renewal season. Know your dates *before* the client asks."
+}
