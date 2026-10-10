@@ -1,0 +1,29 @@
+{
+ "format": "quiz",
+ "mood": "playful",
+ "theme": "amber",
+ "seed": 412,
+ "music": "library",
+ "hook": "Landscapers heading into *snow season*: quick quiz",
+ "title": "Landscapers switching to snow removal: can you get *2/2*?",
+ "questions": [
+  {
+   "q": "Adding snow removal this winter. Does your landscaping insurance cover it?",
+   "options": [
+    "Automatically",
+    "Ask your agent first"
+   ],
+   "answer": 1,
+   "why": "Not always. Check before the first storm."
+  },
+  {
+   "q": "A crew member's driver's license expired last month. Can they drive the plow truck?",
+   "options": [
+    "Sure, it's close enough",
+    "Nope"
+   ],
+   "answer": 1,
+   "why": "Check crew licenses too, not just yours."
+  }
+ ]
+}
