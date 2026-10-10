@@ -1,0 +1,15 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "dark",
+ "seed": 286,
+ "music": "library",
+ "hook": "Things that just make sense when you run an *auto shop*",
+ "title": "Things that just make sense: *auto shop* edition",
+ "items": [
+  {"title": "Knowing when the garage insurance renews", "body": "Before the agent calls. Not after."},
+  {"title": "Every tech's cert dates on one list", "body": "Some certs expire. Find out from the list, not the customer."},
+  {"title": "Shop license renewed early", "body": "If your state requires one, it's not the thing to cut close."},
+  {"title": "Shop truck registrations, all in one place", "body": "Not one in the glovebox, one in a drawer."}
+ ]
+}
