@@ -1,0 +1,5 @@
+Not published. Uploads succeeded and Postiz accepted every post, then all went to state ERROR with error null.
+Tried twice: (1) TikTok quiz video with library track 7642165250439317520 + Instagram video; (2) TikTok 4-photo carousel (autoAddMusic yes) + Instagram 4-image carousel.
+6th run in a row with the same silent failure on both channels (since 2026-10-08 12:52 PT). Last successful publish: 2026-10-08 7:54 AM PT.
+Cause is on the Postiz/channel side (likely expired channel auth); both channels need reconnecting in Postiz.
+Postiz ids: cmv2istru0ernnp0ykfrre703 cmv2istyc0eronp0yj2jcwh9y cmv2ivof40ertnp0y4fr3f7s8 cmv2ivonu0erunp0y30139zof
