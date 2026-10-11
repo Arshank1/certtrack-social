@@ -1,0 +1,4 @@
+Not published. Upload succeeded and Postiz accepted both posts (TikTok countdown video with library track 7347364004949706753 "Happy Every Day" + Instagram video post), then both went to state ERROR with error null within ~2 min.
+8th run in a row with the same silent failure on both channels (since 2026-10-08 12:52 PT). Last successful publish: 2026-10-08 7:54 AM PT. Only TikTok + Instagram are connected in Postiz.
+Cause is on the Postiz/channel side (likely expired channel auth); both channels need reconnecting in Postiz.
+Postiz ids: cmv343jx90jcwnp0yqug57rxb (tiktok) cmv343k440jcxnp0ydr6nyj5f (instagram)
