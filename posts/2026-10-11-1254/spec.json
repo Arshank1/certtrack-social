@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 284,
+ "music": "library",
+ "hook": "POV: you're a plumber and the GC texts you the night before the job about your *COI*",
+ "contact": "Mike - GC",
+ "messages": [
+  {"from": "them", "text": "need your updated COI before you start tomorrow"},
+  {"from": "me", "text": "sent it to you in march"},
+  {"from": "them", "text": "that one expired last week"},
+  {"from": "me", "text": "no it renewed. i paid it"},
+  {"from": "them", "text": "great. send the new certificate"},
+  {"from": "me", "text": "the agent has it i think"},
+  {"from": "them", "text": "no cert, no site access. 7am"}
+ ],
+ "punchline": "Paying the renewal and having the *new certificate* in hand are two different things.",
+ "cta": false
+}
