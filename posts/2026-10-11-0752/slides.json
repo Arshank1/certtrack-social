@@ -1,0 +1,6 @@
+{"theme":"paper","slides":[
+ {"kind":"hook","title":"POV: you're an electrician and the office texts you about your license renewal"},
+ {"kind":"statement","title":"\"Your license renews end of the month. Did you do your CE hours?\""},
+ {"kind":"statement","title":"\"My what?\"","body":"In a lot of states, continuing education has to be done before you can renew."},
+ {"kind":"checklist","title":"Trades: check before year-end","items":["License renewal date","CE hours required (and done)","Contractor bond","Liability insurance / COI","Vehicle registrations"]}
+]}

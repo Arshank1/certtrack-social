@@ -13,7 +13,7 @@ Spec (common keys):
                                                     commercial-library track is attached when posting;
                                                     synth = bake in our own generated track for that mood
    "brand": "propertyalerts",                       (optional; default CertTrack)
-   "cta": {"title": "...", "body": "...", "button": "Link in bio"},
+   "cta": {"title": "...", "body": "...", "button": "Link in bio"},   (or false: no CertTrack end card)
    ... format-specific keys, see each builder below ...}
 
 Formats:
@@ -554,7 +554,9 @@ def main(spec_path, out_dir):
     mood = spec.get("mood") or DEFAULT_MOOD[fmt]
     seed = int(spec.get("seed", random.randint(0, 999)))
     bpm = music.mood_bpm(mood, seed)
-    scenes = BUILDERS[fmt](spec, bpm) + [cta_scene(spec, bpm, spec.get("theme", "navy"))]
+    scenes = BUILDERS[fmt](spec, bpm)
+    if spec.get("cta") is not False:  # "cta": false = non-product post, no end card
+        scenes.append(cta_scene(spec, bpm, spec.get("theme", "navy")))
     total = sum(s.dur for s in scenes)
     if total > 58:
         print(f"WARNING: video is {total:.1f}s; aim for 12-35s")

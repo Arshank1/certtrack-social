@@ -1,0 +1,41 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 517,
+ "music": "library",
+ "hook": "POV: you're an electrician and the office texts you about your *license renewal*",
+ "contact": "Linda - Office",
+ "messages": [
+  {
+   "from": "them",
+   "text": "state board email. your license renews end of the month"
+  },
+  {
+   "from": "me",
+   "text": "easy, just pay the fee"
+  },
+  {
+   "from": "them",
+   "text": "did you do your CE hours?"
+  },
+  {
+   "from": "me",
+   "text": "my what"
+  },
+  {
+   "from": "them",
+   "text": "continuing education. due before you renew"
+  },
+  {
+   "from": "me",
+   "text": "since when"
+  },
+  {
+   "from": "them",
+   "text": "the reminder came in july"
+  }
+ ],
+ "punchline": "The renewal is easy. The *hours due before it* are what get you.",
+ "cta": false
+}
