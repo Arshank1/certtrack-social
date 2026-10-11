@@ -1,0 +1,4 @@
+Not published. Postiz accepted both posts (TikTok texts video, plumber COI story, library track 7316669938881906690 "Panic!!" + Instagram video post), then both went to state ERROR with error null within ~2 min.
+10th run in a row with the same silent failure on both channels (since 2026-10-08 12:52 PT). Last successful publish: 2026-10-08 7:54 AM PT. Only TikTok + Instagram are connected in Postiz.
+New diagnostic: TikTok musicSearch via Postiz triggerTool succeeded this run, so the TikTok token itself still works; the failure is in Postiz's publish step for both channels (check the Postiz workspace: channel status/"preferences", plan or billing, or contact Postiz support).
+Postiz ids: cmv48tsgv0tl1np0yorfxl5th (tiktok) cmv48tsos0tl2np0y2n0womds (instagram)
