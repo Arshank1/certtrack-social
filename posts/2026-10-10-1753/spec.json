@@ -1,0 +1,9 @@
+{"format": "countdown", "mood": "upbeat", "theme": "navy", "seed": 642, "music": "library",
+ "hook": "Gym owners: red flags your paperwork is *not* handled",
+ "title": "Red flags your *gym's* paperwork is not actually handled",
+ "items": [
+  {"title": "The liability renewal goes to an inbox nobody checks", "body": "Coverage you think you have is not coverage."},
+  {"title": "Nobody knows when the trainers' CPR cards expire", "body": "At least one of them already did."},
+  {"title": "Trainer certs live in a group chat", "body": "Scrolling back to 2023 is not a system."},
+  {"title": "The license on the wall 'still looks fine'", "body": "Looks fine is not a date."}
+ ]}
