@@ -1,0 +1,21 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 517,
+ "music": "library",
+ "hook": "POV: you run a food truck and the holiday market organizer texts you about your *permits*",
+ "contact": "Dana - Holiday Market",
+ "messages": [
+  {"from": "them", "text": "hi! final paperwork for the market by friday pls"},
+  {"from": "me", "text": "easy. what do you need"},
+  {"from": "them", "text": "health permit, fire inspection, COI naming us"},
+  {"from": "me", "text": "health permit is on the window"},
+  {"from": "them", "text": "and the fire suppression tag?"},
+  {"from": "me", "text": "...define current"},
+  {"from": "them", "text": "the date on it hasn't passed"},
+  {"from": "me", "text": "ok so about september"}
+ ],
+ "punchline": "Every permit on that truck expires on its own schedule. *Write the dates down.*",
+ "cta": false
+}
