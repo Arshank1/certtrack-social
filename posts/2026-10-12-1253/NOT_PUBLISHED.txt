@@ -1,0 +1,4 @@
+Not published. Uploads succeeded and Postiz accepted both posts (TikTok countdown video "Rating how dental offices track license renewals", synth music baked in, no music setting + Instagram 4-image carousel), then both went to state ERROR with error null within ~2 min.
+13th run in a row with the same silent failure on both channels (since 2026-10-08 12:52 PT). Last successful publish: 2026-10-08 7:54 AM PT. Only TikTok Business + Instagram standalone are connected in Postiz.
+Postiz TikTok schema note: "media is pulled by TikTok from its URL ... the media domain must be a verified URL property of the TikTok Business app" - but Instagram fails too, so the publish step itself (channel auth/plan/billing in the Postiz workspace) is the likelier cause.
+Postiz ids: cmv5ocl4e09xoqw0ypotpzhdp (tiktok) cmv5oclb709xpqw0ykae92mfh (instagram)
