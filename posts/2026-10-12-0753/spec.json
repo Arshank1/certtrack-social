@@ -1,0 +1,24 @@
+{
+ "format": "quiz",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 637,
+ "music": "library",
+ "hook": "Year-end renewal quiz: can you get *3/3*?",
+ "title": "Year-end renewal quiz: can you get *3/3*?",
+ "cta": false,
+ "questions": [
+  {"q": "Your insurance renewed. Does the client's copy of your COI update too?",
+   "options": ["Yes, automatically", "Only if someone sends the new one"],
+   "answer": 1,
+   "why": "A COI is a snapshot. They keep the old one until you send a new one."},
+  {"q": "Your business license expires Dec 31. When do you start the renewal?",
+   "options": ["Dec 30, like a legend", "A few weeks ahead"],
+   "answer": 1,
+   "why": "Forms, fees, proof of insurance, holiday office hours. Give it room."},
+  {"q": "The renewal notice went to an employee who left in March. Who reads it?",
+   "options": ["Someone, eventually", "Nobody"],
+   "answer": 1,
+   "why": "Send renewal notices to a shared inbox, not one person."}
+ ]
+}
