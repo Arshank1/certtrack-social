@@ -1,0 +1,26 @@
+{
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "Rating how dental offices track license renewals",
+   "body": "Be honest. Which one is yours?"
+  },
+  {
+   "kind": "point",
+   "num": "2/10",
+   "title": "Sticky note on the monitor",
+   "body": "Until the cleaning crew throws it out."
+  },
+  {
+   "kind": "point",
+   "num": "5/10",
+   "title": "The spreadsheet",
+   "body": "Perfect. If anyone opens it."
+  },
+  {
+   "kind": "cta",
+   "title": "10/10: one place that alerts you first",
+   "body": "CertTrack tracks licenses, CPR cards and policies and alerts you before they expire."
+  }
+ ]
+}

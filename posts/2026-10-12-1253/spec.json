@@ -1,0 +1,16 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "paper",
+ "seed": 734,
+ "music": "synth",
+ "hook": "Rating how *dental offices* track license renewals",
+ "title": "Rating how *dental offices* track license renewals",
+ "items": [
+  {"title": "One place that alerts you first: 10/10", "body": "Licenses, CPR cards, insurance. You hear before they expire."},
+  {"title": "The spreadsheet: 5/10", "body": "Perfect. If anyone opens it."},
+  {"title": "\"Someone will remind us\": 3/10", "body": "Someone has been saying that since 2019."},
+  {"title": "Sticky note on the monitor: 2/10", "body": "Until the cleaning crew throws it out."}
+ ],
+ "cta": {"title": "Make it a 10/10", "body": "CertTrack tracks your licenses, certs and policies and alerts you before they expire.", "button": "Link in bio"}
+}
