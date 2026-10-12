@@ -1,0 +1,4 @@
+Not published. Postiz accepted both posts (TikTok quiz video "Year-end renewal quiz", playful, library track 7388068015306770448 "Trivia Tunes" + Instagram video post), then both went to state ERROR with error null within ~2 min.
+12th run in a row with the same silent failure on both channels (since 2026-10-08 12:52 PT). Last successful publish: 2026-10-08 7:54 AM PT. Only TikTok Business + Instagram standalone are connected in Postiz.
+Upload to uploads.postiz.com succeeded; failure is in Postiz's publish step for both channels (likely channel auth/token, plan, or TikTok verified-domain issue; check the Postiz workspace or contact Postiz support).
+Postiz ids: cmv5dmbyq04q7qw0ygan9y86b (tiktok) cmv5dmc3004q8qw0yvzfnekcq (instagram)
