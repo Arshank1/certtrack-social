@@ -1,0 +1,45 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "amber",
+ "seed": 381,
+ "music": "library",
+ "hook": "Daycare owners: answer in *one word*",
+ "contact": "Mom",
+ "messages": [
+  {
+   "from": "them",
+   "text": "your aunt asked what you do all day. answer in one word"
+  },
+  {
+   "from": "me",
+   "text": "Ratios."
+  },
+  {
+   "from": "them",
+   "text": "what sound wakes you up at night"
+  },
+  {
+   "from": "me",
+   "text": "\"Licensing visit.\""
+  },
+  {
+   "from": "them",
+   "text": "favorite season?"
+  },
+  {
+   "from": "me",
+   "text": "CPR-renewal."
+  },
+  {
+   "from": "them",
+   "text": "what do you need most"
+  },
+  {
+   "from": "me",
+   "text": "Reminders."
+  }
+ ],
+ "punchline": "Every staff CPR card expires on *its own date*. Know them before the inspector asks.",
+ "cta": false
+}
