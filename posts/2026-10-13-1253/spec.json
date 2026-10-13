@@ -1,0 +1,18 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 284,
+ "music": "library",
+ "hook": "Landscapers switching to *snow removal* this month:",
+ "contact": "Property Manager",
+ "messages": [
+  {"from": "them", "text": "hi! before you plow the lot this winter we need an updated COI"},
+  {"from": "them", "text": "one that covers snow removal specifically"},
+  {"from": "me", "text": "no problem, my insurance covers everything"},
+  {"from": "them", "text": "great. send it by Friday"},
+  {"from": "me", "text": "*opens policy for the first time since March*"}
+ ],
+ "punchline": "New season, new *paperwork*. Check the policy, the COI and the truck registrations before the first storm.",
+ "cta": {"title": "Know every renewal date before it sneaks up", "body": "CertTrack tracks licenses, permits and insurance and alerts you before they expire.", "button": "Link in bio"}
+}
