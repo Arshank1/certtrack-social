@@ -1,0 +1,19 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "navy",
+ "seed": 517,
+ "music": "library",
+ "hook": "Pest control owners: you have *1 new message* from Unknown",
+ "contact": "Unknown",
+ "messages": [
+  {"from": "them", "text": "i know when your applicator license expires. do you? -X"},
+  {"from": "me", "text": "who is this"},
+  {"from": "them", "text": "the renewal notice went to an inbox nobody checks -X"},
+  {"from": "them", "text": "and the truck registration? also this month -X"},
+  {"from": "me", "text": "pretty sure the office handles that"},
+  {"from": "them", "text": "the office thinks you handle it -X"}
+ ],
+ "punchline": "Block this number: put every *expiration date* in one place.",
+ "cta": false
+}
