@@ -1,0 +1,4 @@
+Not published. 7 images uploaded fine and Postiz accepted both posts (TikTok photo carousel "Roofers on a Saturday off, completely relaxed", trend i-just-want-to-be-ok, autoAddMusic yes, cta none + Instagram 7-image carousel), then both went to state ERROR with error null within ~2 min.
+17th run in a row with this failure (since 2026-10-08 12:52 PT; last success 2026-10-08 7:54 AM PT).
+This run deliberately used a slideshow with the exact settings of the last successful post (the previous 16 failures were all video runs, because perf.py never logs unpublished posts and kept suggesting a video). The slideshow failed the same way, so the problem is NOT the format, music or video; it is the Postiz channel connections / workspace (reconnect TikTok Business + Instagram in Postiz, check plan/billing, or contact Postiz support).
+Postiz ids: cmv7efedi0pkvqw0yxtnzqo3h (tiktok) cmv7efekm0pkwqw0yyfrod1hc (instagram)
