@@ -1,0 +1,3 @@
+Not published. video.mp4 + 4 ig slides uploaded fine and Postiz accepted both posts (TikTok quiz video "Food truck owners: 3 questions, no Googling", music library 7388068015306770448 Trivia Tunes, cta none + Instagram video post), then both went to state ERROR with error null within ~1 min.
+Same failure as every run since 2026-10-08 12:52 PT (last success 2026-10-08 7:54 AM PT). Still a Postiz channel connection / workspace problem: reconnect TikTok Business + Instagram in Postiz, check plan/billing, or contact Postiz support.
+Postiz ids: cmv88i7bw054fpc0yikmtfhz8 (tiktok) cmv88i7h3054gpc0yzyyyjjhv (instagram)
