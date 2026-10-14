@@ -1,0 +1,16 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "dark",
+ "seed": 418,
+ "music": "library",
+ "hook": "4 dates *HVAC* owners can't let lapse before the winter rush",
+ "title": "4 dates *HVAC* owners can't let lapse before the winter rush",
+ "items": [
+  {"title": "Contractor license", "body": "Renews on its own schedule. Some states want CE hours done first."},
+  {"title": "Liability insurance + COI", "body": "Property managers and GCs often want a current one before you start."},
+  {"title": "Workers' comp", "body": "Hiring extra techs for the cold snap? Make sure coverage keeps up."},
+  {"title": "Van registrations", "body": "Every truck in the fleet, each on its own date."}
+ ],
+ "cta": false
+}
