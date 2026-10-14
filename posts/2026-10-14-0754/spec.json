@@ -1,0 +1,8 @@
+{"format":"quiz","mood":"playful","theme":"paper","seed":238,"music":"library","cta":false,
+ "hook":"Food truck owners: 3 questions, *no Googling*",
+ "title":"Food truck owners: 3 questions, *no Googling*",
+ "questions":[
+  {"q":"You're parking in a new city this weekend. Does your home-city permit cover you there?","options":["Yes, a permit is a permit","Not necessarily"],"answer":1,"why":"Permits are often city- or county-specific. Check before you park."},
+  {"q":"Holiday hires start Friday. Who needs a food handler card?","options":["Only the cook","Check every single one","Nobody, they're seasonal"],"answer":1,"why":"Many areas require one for anyone handling food, seasonal staff included."},
+  {"q":"The fire suppression inspection is coming up. Who's tracking the date?","options":["The fire marshal","Whoever remembers","You"],"answer":2,"why":"Inspectors check it. Remembering the date is on you."}
+ ]}
