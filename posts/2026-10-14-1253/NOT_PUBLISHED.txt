@@ -1,0 +1,3 @@
+Not published. video.mp4 + 6 ig slides uploaded fine and Postiz accepted both posts (TikTok countdown video "4 dates HVAC owners can't let lapse before the winter rush", music library 7653283194855065617 Back To You (upbeat), cta none, trend none + Instagram video post), then both went to state ERROR with error null within ~1 min.
+Same failure as every run since 2026-10-08 12:52 PT (last success 2026-10-08 7:54 AM PT). Still a Postiz channel connection / workspace problem: reconnect TikTok Business + Instagram in Postiz, check plan/billing, or contact Postiz support. Only TikTok + Instagram CertTrack channels are connected (no X/LinkedIn/etc.).
+Postiz ids: cmv8j62l208e9pc0ysej7mdxb (tiktok) cmv8j62p608eapc0ykpybn8px (instagram)
