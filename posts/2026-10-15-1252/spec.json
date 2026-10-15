@@ -1,0 +1,49 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "dark",
+ "seed": 417,
+ "music": "library",
+ "hook": "Told the AI I run a *landscaping* business. One-word answers only.",
+ "contact": "AI Assistant",
+ "messages": [
+  {
+   "from": "me",
+   "text": "I run a landscaping business. Answer in one word."
+  },
+  {
+   "from": "me",
+   "text": "What sound am I?"
+  },
+  {
+   "from": "them",
+   "text": "Leafblower."
+  },
+  {
+   "from": "me",
+   "text": "What expires while I'm busy?"
+  },
+  {
+   "from": "them",
+   "text": "Everything."
+  },
+  {
+   "from": "me",
+   "text": "Be specific."
+  },
+  {
+   "from": "them",
+   "text": "Applicator license. Insurance. COI. Truck registration."
+  },
+  {
+   "from": "me",
+   "text": "That's way more than one word."
+  },
+  {
+   "from": "them",
+   "text": "So is the list."
+  }
+ ],
+ "punchline": "Check those dates *before* snow season.",
+ "cta": false
+}
