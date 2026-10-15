@@ -1,0 +1,3 @@
+2026-10-15 14:56 UTC: TikTok (cmv9nvqtk037ele0yh01a9qrx) and Instagram (cmv9nvsyn037fle0yn5uxmpo5) both ended in Postiz state ERROR with error null.
+Slideshow, real-horror-story trend, electricians, autoAddMusic yes (same settings as the last successful posts). Not logged in perf/log.json.
+Same failure on every publish since Oct 8 12:52 PT: the Postiz channel connections likely need reconnecting.
