@@ -1,0 +1,4 @@
+Not published. 6 tt + 6 ig slides uploaded fine and Postiz accepted both posts (TikTok slideshow "Auto shop owners: 1 new message from Unknown", trend message-from-anonymous, autoAddMusic yes, cta none, industry auto repair + Instagram carousel), then both went to state ERROR with error null within ~1 min.
+Same failure as every run since 2026-10-08 12:52 PT. Ran a slideshow instead of perf.py's suggested quiz video because unlogged failed posts skew its video quota (2 of the last 3 attempts were videos).
+Only TikTok Business + Instagram CertTrack channels are connected in Postiz. Fix needed on the owner side: reconnect both channels in Postiz, check plan/billing, or contact Postiz support (TikTok Business also requires the media domain to be a verified URL property of the app).
+Postiz ids: cmv8tu0zz035rtj0ymrfk4hue (tiktok) cmv8tu12x035stj0ydv4q7kem (instagram)
