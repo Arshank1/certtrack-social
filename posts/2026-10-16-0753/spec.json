@@ -1,0 +1,12 @@
+{"format":"texts","mood":"playful","theme":"dark","seed":583,"music":"library","cta":false,
+ "hook":"POV: the holiday market organizer texts your *food truck*",
+ "contact":"Dana - Holiday Market",
+ "messages":[
+  {"from":"them","text":"so excited to have you at the winter market!!"},
+  {"from":"them","text":"just need your health permit + COI by friday"},
+  {"from":"me","text":"easy, sending now"},
+  {"from":"me","text":"...the health permit expired in september"},
+  {"from":"them","text":"oh no"},
+  {"from":"me","text":"the COI is from last year's market too"}
+ ],
+ "punchline":"The truck was ready. The *paperwork* was not."}
