@@ -1,0 +1,10 @@
+{"format": "countdown", "mood": "confident", "theme": "navy", "seed": 862, "music": "library", "cta": false,
+ "hook": "5 red flags your restaurant's paperwork is *not* handled",
+ "title": "5 red flags your restaurant's paperwork is *not* handled",
+ "items": [
+  {"title": "\"It's handled.\"", "body": "Ask who handles it. Enjoy the silence."},
+  {"title": "Liability renews \"sometime in Q4\"", "body": "Sometime is not a date."},
+  {"title": "The health permit is on the wall", "body": "Nobody knows when it expires."},
+  {"title": "New holiday hires, no food handler cards", "body": "\"They'll get them next week.\""},
+  {"title": "Liquor license renewal goes to an old email", "body": "The manager who left in spring."}
+ ]}
