@@ -1,0 +1,8 @@
+{"format":"quiz","mood":"playful","theme":"dark","seed":617,"music":"library","cta":false,
+ "hook":"Tattoo shop owners, quick quiz. *Be honest.*",
+ "title":"Tattoo shop owners, quick quiz. *Be honest.*",
+ "questions":[
+  {"q":"Your artist's bloodborne pathogens training was 14 months ago. Still good?","options":["Yep, it's a one-time thing","Time to redo it"],"answer":1,"why":"OSHA expects workers exposed to blood to get this training every year."},
+  {"q":"A guest artist starts Friday. Does your shop license cover them?","options":["Yes, they're in my shop","Check their own license","Nobody ever checks"],"answer":1,"why":"Many states and counties license artists individually. Check before they tattoo."},
+  {"q":"The shop license renewal notice went to an old email. Who finds out first?","options":["You, right on time","The health inspector"],"answer":1,"why":"Renewal notices go wherever you told them to years ago. Keep the date yourself."}
+ ]}
