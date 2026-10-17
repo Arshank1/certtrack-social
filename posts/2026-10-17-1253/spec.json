@@ -1,0 +1,8 @@
+{"format":"quiz","mood":"playful","theme":"paper","seed":418,"music":"library","cta":false,
+ "hook":"HVAC and plumbing owners: *3 questions*. Be honest.",
+ "title":"The paperwork quiz nobody studies for",
+ "questions":[
+  {"q":"A new client wants your certificate of insurance today. Which one goes out?","options":["The PDF from last year's folder","A current one from your agent"],"answer":1,"why":"Old certificates show old dates. Clients check."},
+  {"q":"Your techs' certifications expire...","options":["All on the same day, nice and tidy","Each on its own date"],"answer":1,"why":"Every card, every tech, its own date."},
+  {"q":"The insurance renewal notice goes to...","options":["Whoever set up the policy years ago","Someone who still works here"],"answer":1,"why":"Check which inbox every renewal goes to."}
+ ]}
