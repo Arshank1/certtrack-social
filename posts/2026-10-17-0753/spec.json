@@ -1,0 +1,12 @@
+{"format":"texts","mood":"tense","theme":"navy","seed":731,"music":"library","cta":false,
+ "hook":"Gym owners: you have *1 new message* from Unknown",
+ "contact":"Unknown",
+ "messages":[
+  {"from":"them","text":"I know something about your gym."},
+  {"from":"me","text":"who is this"},
+  {"from":"them","text":"Half your trainers' CPR cards expire this month."},
+  {"from":"them","text":"Your liability policy renewal went to the old front desk email."},
+  {"from":"them","text":"Go look at the date on the license by the door. -X"},
+  {"from":"me","text":"...it says 2025"}
+ ],
+ "punchline":"Block this number. Put every *date* in one place."}
