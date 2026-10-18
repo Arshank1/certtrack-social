@@ -1,0 +1,12 @@
+{"format":"texts","mood":"tense","theme":"paper","seed":418,"music":"library","cta":false,
+ "hook":"POV: it's Saturday and the *venue* texts you",
+ "contact":"Maple Hall Events",
+ "messages":[
+  {"from":"them","text":"Hi! Quick thing before the holiday party setup."},
+  {"from":"them","text":"The insurance certificate we have on file for you expired in September."},
+  {"from":"me","text":"It definitely renewed."},
+  {"from":"me","text":"...I think?"},
+  {"from":"them","text":"We need a current one by noon or your crew can't load in."},
+  {"from":"me","text":"calling my agent. on a saturday."}
+ ],
+ "punchline":"Know your renewal dates *before* the venue does."}
