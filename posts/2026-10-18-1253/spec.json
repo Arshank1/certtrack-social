@@ -1,0 +1,8 @@
+{"format":"quiz","mood":"playful","theme":"navy","seed":264,"music":"library","cta":false,
+ "hook":"Cleaning business owners: *would you rather?*",
+ "title":"Cleaning business owners: *would you rather?*",
+ "questions":[
+  {"q":"Would you rather...","options":["Send a new client your COI in 5 minutes","Find out it expired while they're waiting"],"answer":0,"why":"Easy pick. Harder to pull off."},
+  {"q":"Holiday deep-clean rush. Would you rather...","options":["Add seasonal hires to workers' comp first","Hope nobody slips on the wet floor"],"answer":0,"why":"Ask your agent before they start."},
+  {"q":"Would you rather know your bond renewal date...","options":["Now","When the client asks for proof"],"answer":0,"why":"Every policy, every license: its own date."}
+ ]}

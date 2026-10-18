@@ -1,0 +1,33 @@
+{
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "Cleaning business owners: would you rather?",
+   "body": "3 picks. Be honest."
+  },
+  {
+   "kind": "compare",
+   "title": "Would you rather...",
+   "left_label": "This",
+   "left": [
+    "Find out your COI expired while the client waits"
+   ],
+   "right_label": "Or this",
+   "right": [
+    "Send a current COI in 5 minutes"
+   ]
+  },
+  {
+   "kind": "statement",
+   "label": "Holiday rush",
+   "title": "Add seasonal hires to workers' comp first?",
+   "body": "Or hope nobody slips on the wet floor. Ask your agent before they start."
+  },
+  {
+   "kind": "statement",
+   "label": "Save this",
+   "title": "COI. Bond. Workers' comp. Business license.",
+   "body": "Four dates. Know all four before a client asks."
+  }
+ ]
+}
