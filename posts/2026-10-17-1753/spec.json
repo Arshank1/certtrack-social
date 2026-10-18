@@ -1,0 +1,8 @@
+{"format":"quiz","mood":"upbeat","theme":"amber","seed":731,"music":"library","cta":false,
+ "hook":"Landscapers: *3 questions* before the first frost.",
+ "title":"Landscapers: the off-season paperwork quiz",
+ "questions":[
+  {"q":"You're adding snow removal this winter. Your insurance...","options":["Covers it automatically, surely","Is worth a call to your agent first"],"answer":1,"why":"Policies cover what they say. Ask before the first storm."},
+  {"q":"Your truck registrations and crew licenses expire...","options":["Whenever they feel like it","On dates you actually wrote down"],"answer":1,"why":"Same truck, different dates. Write them down."},
+  {"q":"Your applicator license (if your state requires one) renews...","options":["When the state reminds you, probably","When you check the date yourself"],"answer":1,"why":"Don't count on the reminder. Check the date and any training it needs."}
+ ]}
