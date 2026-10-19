@@ -1,0 +1,32 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "paper",
+ "seed": 417,
+ "music": "library",
+ "cta": false,
+ "hook": "Landscapers: rating how you track *renewals*",
+ "title": "Landscapers: rating how you track *renewals*",
+ "items": [
+  {
+   "title": "Every date in one place, with alerts: 10/10",
+   "body": "License, COI, pesticide cert, truck registration. Off-season is renewal season."
+  },
+  {
+   "title": "Phone reminder: 6/10",
+   "body": "Works until you change phones."
+  },
+  {
+   "title": "Spreadsheet: 5/10",
+   "body": "Great, if anyone opens it before spring."
+  },
+  {
+   "title": "Sticky note on the truck dash: 2/10",
+   "body": "Faded by July. Fell off in August."
+  },
+  {
+   "title": "Memory: 0/10",
+   "body": "Your license renewed itself in 2023. Right?"
+  }
+ ]
+}
