@@ -1,0 +1,17 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "navy",
+ "seed": 682,
+ "music": "library",
+ "cta": false,
+ "hook": "Things food truck owners find weirdly *pretty*",
+ "title": "Things food truck owners find weirdly *pretty*",
+ "items": [
+  {"title": "Every expiry date on one list", "body": "Health permit, fire inspection, insurance, truck registration. All of it."},
+  {"title": "A health permit good through next year", "body": "Taped up where the inspector can see it."},
+  {"title": "A renewal confirmation email", "body": "Sent before the event organizer asked."},
+  {"title": "A fresh fire suppression tag", "body": "With a date that isn't last spring."},
+  {"title": "A COI that's still current", "body": "Ready to send before the festival deadline."}
+ ]
+}
