@@ -1,0 +1,12 @@
+{"format":"texts","mood":"playful","theme":"dark","seed":613,"music":"synth","cta":false,
+ "hook":"Small business owners: you have *1 new message*",
+ "contact":"Unknown",
+ "messages":[
+  {"from":"them","text":"I know when your insurance renews. Do you? -X"},
+  {"from":"me","text":"who is this"},
+  {"from":"them","text":"The renewal notice went to an inbox nobody checks. -X"},
+  {"from":"them","text":"And your business license? Year-end. Tick tock. -X"},
+  {"from":"me","text":"checking right now"},
+  {"from":"them","text":"Good. -X"}
+ ],
+ "punchline":"Block this number: put every *date* in one place."}
