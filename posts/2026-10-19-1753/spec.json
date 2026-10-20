@@ -1,0 +1,15 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "dark",
+ "seed": 539,
+ "music": "library",
+ "cta": false,
+ "hook": "Property manager on a Saturday, *totally* relaxed:",
+ "title": "Property manager on a Saturday, *totally* relaxed:",
+ "items": [
+  {"title": "Finally taking a nap.", "body": "Also me: when does the building's insurance policy renew?"},
+  {"title": "Cheering at my kid's soccer game.", "body": "Also me: is the rental license due this year or next?"},
+  {"title": "Enjoying my coffee.", "body": "Also me: did the plumber's insurance certificate expire in July?"}
+ ]
+}
