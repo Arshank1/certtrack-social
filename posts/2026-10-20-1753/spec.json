@@ -1,0 +1,13 @@
+{"format":"texts","mood":"tense","theme":"navy","seed":428,"music":"library","cta":false,
+ "hook":"POV: the venue texts you *2 days* before the wedding",
+ "contact":"Harbor View Venue",
+ "messages":[
+  {"from":"them","text":"Hi! Quick thing before Saturday"},
+  {"from":"them","text":"We need your certificate of insurance listing us as additional insured"},
+  {"from":"me","text":"of course, sending it now"},
+  {"from":"me","text":"...wait. the one on file expired in September"},
+  {"from":"them","text":"We can't let vendors load in without a current one"},
+  {"from":"me","text":"calling my agent right now"}
+ ],
+ "punchline":"Know your *renewal dates* before the venue asks."
+}
