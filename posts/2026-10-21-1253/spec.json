@@ -1,0 +1,13 @@
+{"format":"texts","mood":"playful","theme":"paper","seed":617,"music":"library","cta":false,
+ "hook":"POV: the market coordinator zooms in on your *permit*",
+ "contact":"Sat Market - Coordinator",
+ "messages":[
+  {"from":"them","text":"Hi! You're confirmed for Saturday's market"},
+  {"from":"them","text":"Just need a photo of your health permit before load-in"},
+  {"from":"me","text":"easy, it's taped in the truck window"},
+  {"from":"them","text":"The one that says 2025?"},
+  {"from":"me","text":"...it's a vintage permit"},
+  {"from":"them","text":"Love that for you. Still need a current one"}
+ ],
+ "punchline":"Check the *date* on the window before someone else does."
+}
