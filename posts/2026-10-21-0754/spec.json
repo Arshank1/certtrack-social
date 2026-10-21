@@ -1,0 +1,28 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "amber",
+ "seed": 417,
+ "music": "library",
+ "cta": false,
+ "hook": "Ways businesses track renewal dates, *ranked*",
+ "title": "Ways businesses track renewal dates, *ranked*",
+ "items": [
+  {
+   "title": "One list that alerts the whole team",
+   "body": "10/10. The heads-up comes weeks early, not the day of."
+  },
+  {
+   "title": "The spreadsheet",
+   "body": "5/10. Great system, if anyone opens it."
+  },
+  {
+   "title": "Sticky note on the monitor",
+   "body": "2/10. Fell behind the desk in March."
+  },
+  {
+   "title": "Memory",
+   "body": "0/10. \"It renews in spring. I think.\""
+  }
+ ]
+}
