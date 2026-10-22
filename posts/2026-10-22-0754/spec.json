@@ -1,0 +1,14 @@
+{"format":"texts","mood":"playful","theme":"dark","seed":382,"music":"synth",
+ "hook":"POV: you run an HVAC company and the property manager texts at *4:52pm*",
+ "contact":"Property Mgr - Oak Street",
+ "messages":[
+  {"from":"them","text":"Hi! Your tech is on the schedule for the rooftop units Monday"},
+  {"from":"them","text":"Can you send your updated certificate of insurance? Ours shows it expired"},
+  {"from":"me","text":"No way, we renewed that"},
+  {"from":"me","text":"...I think we renewed that"},
+  {"from":"them","text":"Can't let anyone on the roof without it"},
+  {"from":"me","text":"calling my agent right now"}
+ ],
+ "punchline":"Renewing it is step one. Sending the *new* one is step two.",
+ "cta":{"title":"Never chase an expired COI again","body":"CertTrack tracks your licenses, permits and policies and alerts you before they expire.","button":"Link in bio"}
+}
