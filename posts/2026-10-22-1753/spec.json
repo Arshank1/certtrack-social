@@ -1,0 +1,13 @@
+{"format":"texts","mood":"tense","theme":"navy","seed":613,"music":"library",
+ "hook":"Food truck owners: you have a new message from *Unknown*",
+ "contact":"Unknown",
+ "messages":[
+  {"from":"them","text":"I know when your mobile vendor permit expires. Do you? -X"},
+  {"from":"me","text":"who is this"},
+  {"from":"them","text":"Your crew's food handler cards all expire the same month. Tick tock. -X"},
+  {"from":"them","text":"The fire inspection sticker on the hood. Go look at the date. -X"},
+  {"from":"me","text":"...ok that one's actually expired"},
+  {"from":"them","text":"The event organizer wants your COI by Friday. -X"}
+ ],
+ "punchline":"Block this number: put every *date* in one place.",
+ "cta":false}
