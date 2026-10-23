@@ -1,0 +1,31 @@
+{
+ "format": "quiz",
+ "mood": "playful",
+ "theme": "amber",
+ "seed": 583,
+ "music": "library",
+ "hook": "Landscapers adding *snow removal* this winter: quick quiz",
+ "title": "The *snow season* paperwork quiz",
+ "questions": [
+  {
+   "q": "You're adding plowing this winter. Does your landscaping insurance automatically cover it?",
+   "options": [
+    "Yes, always",
+    "Not necessarily"
+   ],
+   "answer": 1,
+   "why": "Plowing can be treated as a different risk. Ask your agent before the first storm."
+  },
+  {
+   "q": "Your policy renews in December. A property manager has your COI from spring. Are you good?",
+   "options": [
+    "Yep, it's on file",
+    "No, they'll want the new one"
+   ],
+   "answer": 1,
+   "why": "A COI shows policy dates. After renewal, clients often ask for a fresh certificate."
+  }
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": false
+}

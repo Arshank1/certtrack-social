@@ -1,0 +1,24 @@
+{
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "Landscapers adding snow removal this winter: quick quiz",
+   "body": "3 questions. Be honest."
+  },
+  {
+   "kind": "myth",
+   "myth": "My landscaping insurance automatically covers plowing.",
+   "fact": "Not necessarily. Plowing can be treated as a different risk. Ask your agent before the first storm."
+  },
+  {
+   "kind": "myth",
+   "myth": "The property manager has my COI from spring. I'm good.",
+   "fact": "If your policy renews in December, they'll often want the new certificate."
+  },
+  {
+   "kind": "statement",
+   "title": "Check the truck registration and permits before the first storm.",
+   "body": "Not at 5 AM with the blade on. Save this before the first snow."
+  }
+ ]
+}
