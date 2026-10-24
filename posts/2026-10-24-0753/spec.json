@@ -1,0 +1,33 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 417,
+ "music": "library",
+ "hook": "HVAC owners in October: *oh look*, it's renewal season",
+ "contact": "Dana (office)",
+ "messages": [
+  {
+   "from": "them",
+   "text": "oh look, the general liability policy renews in 3 weeks"
+  },
+  {
+   "from": "me",
+   "text": "cool cool cool. which policy is that"
+  },
+  {
+   "from": "them",
+   "text": "also the GC on Maple St wants a new COI. ours expired in march"
+  },
+  {
+   "from": "me",
+   "text": "who renewed everything last year??"
+  },
+  {
+   "from": "them",
+   "text": "...you did. from memory."
+  }
+ ],
+ "punchline": "Write the *dates* down before the dates write you up.",
+ "cta": false
+}
