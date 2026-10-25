@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "mood": "upbeat",
+ "theme": "navy",
+ "seed": 241,
+ "music": "library",
+ "hook": "Bakery owners: the *holiday rush* paperwork quiz",
+ "title": "Holiday rush *paperwork* quiz",
+ "questions": [
+  {"q": "You hire two seasonal helpers for December. Do they need food handler cards?",
+   "options": ["Only if they stay past January", "Often yes, check local rules"],
+   "answer": 1,
+   "why": "Many areas require them for anyone handling food, seasonal or not."},
+  {"q": "You're selling at a weekend holiday market. Does your shop's permit cover the booth?",
+   "options": ["Yes, same business", "Not always"],
+   "answer": 1,
+   "why": "Events often need their own temporary permit. Ask the organizer early."},
+  {"q": "The market wants your COI. Yours expired in September.",
+   "options": ["Send it anyway", "Get a current one first"],
+   "answer": 1,
+   "why": "An expired certificate won't count. Events want current dates."}
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": false
+}
