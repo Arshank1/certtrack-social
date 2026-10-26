@@ -1,12 +1,12 @@
 # TikTok trend recipes for CertTrack
 
-Refreshed weekly by the "CertTrack trend refresh" scheduled task (last refresh: 2026-10-19).
+Refreshed weekly by the "CertTrack trend refresh" scheduled task (last refresh: 2026-10-26).
 Each recipe takes a format that is getting big views on TikTok right now and gives it a CertTrack twist.
 The posting agent uses one of these on at least every other post and logs its name in the "trend" field.
 Rules: the joke or the useful bit comes first and CertTrack comes second (or not at all). Never invent stats,
 fines or customer stories. Most recipes are carousels (slideshow) because carousels are what's working for us.
 
-## Hot right now (seen in mid Oct 2026 trend roundups)
+## Hot right now (seen in Oct 14-20 2026 trend roundups)
 
 ### stop-the-wedding
 Trend: photo carousel where each slide reads "Stop the wedding, but..." and finishes with a petty, oddly specific objection. Still listed in Oct 14 roundups.
@@ -26,27 +26,27 @@ Slide kinds: hook, statement x4, optional cta. Industry swaps: restaurant owner,
 ### message-from-anonymous
 Trend: ominous anonymous text-message hook signed with a single letter, used to "threaten" a niche audience with a relatable truth ("-A text"; still in Oct 14-19 roundups). Keep it to the anonymous-text style; don't name or picture the show or its characters.
 CertTrack spin: carousel. Hook: "New message from: Unknown" then one creepy-but-true text per slide: "I know your COI expired last month. You don't. Yet." / "Your food handler cards all expire the same week. Tick tock." / "The renewal notice went to an inbox nobody checks." Sign each off "-X". Last slide: "Block this number: put every date in one place."
-Slide kinds: hook, statement x3-4, optional cta. Doubles as Halloween content through Oct 31.
+Slide kinds: hook, statement x3-4, optional cta. Doubles as Halloween content through Oct 31; the trend dates from late Sept, so expect to retire it in early Nov unless it keeps showing up.
 
 ### real-horror-story (relatable Halloween)
 Trend: horror-movie language for everyday frustrations instead of actual spooky content (October; "spooky season" runs to Oct 31).
-CertTrack spin: carousel. Hook: "Scariest stories for small business owners (October edition)". Slides: "The certificate of insurance that expired... last month." / "The renewal notice went to an employee who left in March." / "'Who renewed this last year?' (no one answers)." Last slide: "Sleep well. Your dates aren't in a drawer." Use through Oct 31, then retire. Already used for salons; vary the industry.
+CertTrack spin: carousel. Hook: "Scariest stories for small business owners (October edition)". Slides: "The certificate of insurance that expired... last month." / "The renewal notice went to an employee who left in March." / "'Who renewed this last year?' (no one answers)." Last slide: "Sleep well. Your dates aren't in a drawer." HARD STOP: do not use after Oct 31 (retire at the next refresh). Already used for salons and auto repair; vary the industry.
 Slide kinds: hook, statement x3-4, optional cta.
 
-### listening-ear-activated (NEW)
+### listening-ear-activated
 Trend: someone is zoned out and bored until one specific topic comes up, then they're suddenly fully locked in; a text overlay sets the scene (Oct 19 roundup).
 CertTrack spin: carousel. Hook: "Office manager in a 45-minute all-hands meeting:" -> "Quarterly goals: zoned out." / "New logo colors: zoned out." / "Someone says 'the client wants a new COI by Friday': LISTENING EAR ACTIVATED." / "'Does anyone know when the business license renews?': fully awake now." Last slide: "Some words just hit different."
 Slide kinds: hook, statement x4. Industry swaps: contractor at a job-site huddle ("bond renewal"), restaurant manager at pre-shift ("health inspector").
 
-### weirdly-pretty (NEW)
-Trend: slideshow that opens with "things I find weirdly pretty" and swipes through oddly specific, unglamorous everyday things the creator loves (Oct 13 roundup).
-CertTrack spin: text-only carousel. Hook: "Things small business owners find weirdly pretty:" -> "A COI with a date that's still a year out." / "A label maker label on the permits folder." / "A renewal confirmation email." / "A calendar with nothing marked URGENT." / "One list with every expiry date on it." Caption invites "what's yours?"
-Slide kinds: hook, point x4-5. Mostly genuine; CertTrack at most as the last item.
+### two-fishes (NEW)
+Trend: deadpan defense of a questionable or unreasonable opinion, delivered totally straight-faced ("Two Fishes"; peaking in Oct 14-18 roundups). We do it as text only; no show audio, contestant or clip.
+CertTrack spin: carousel. Hook: "Me calmly defending my unreasonable small-business opinion:" -> "Renewing a license 60 days early is not 'too early.'" / "A sticky note is not a filing system. I will not be taking questions." / "If the COI is from last year, it's not a COI, it's a souvenir." / "The renewal date belongs on a calendar, not in someone's head." Last slide: "I'm not being dramatic. I'm being renewed." Caption asks "which one would you defend?"
+Slide kinds: hook, statement x4, optional cta. Industry swaps: property manager (vendor COIs), clinic office manager (staff CPR cards), contractor (bonds).
 
-### oh-look (NEW)
-Trend: one person reacts with exaggerated dread to a task everyone hates; the other calmly reveals an easier way (Oct 5-14 roundups, filmed as a couple; we do it as text).
-CertTrack spin: carousel with a compare slide. Hook: "Oh look, it's renewal season." Then: "Me: digging through three inboxes for the insurance renewal." / "Me: calling the agent to ask what we even have." / "Also me: 'who renewed this last year?'" Compare slide: left "the dread" (email search, sticky notes, last-minute call), right "the calm way" (a reminder 30 days out, one list, done). Last slide: "Oh look. It's handled."
-Slide kinds: hook, statement x3, compare, optional cta (if the cta is product-forward, it counts toward the product limit). Replaces how-different-our-lives-are.
+### someones-gotta-hold-it-down (NEW)
+Trend: everyone else is off having fun while one person keeps the shop, inbox or front desk running; the on-screen text line is the joke (Oct 2026 roundup, still going since late summer).
+CertTrack spin: carousel. Hook: "Everyone's on PTO for the holidays. Someone's gotta hold it down." -> "Owner: in Cabo." / "Lead tech: hunting trip." / "Front desk: 'back Monday.'" / "Me: quietly renewing the business license, the vehicle registrations and the workers' comp policy." Last slide: "Someone's gotta hold it down. (It helps when the reminders come to you.)"
+Slide kinds: hook, statement x4, optional cta. Good into Thanksgiving/December PTO season. Industry swaps: salon manager, fleet dispatcher, restaurant GM.
 
 ## Evergreen formats that keep performing
 
@@ -75,6 +75,7 @@ The brand roasts its own marketing: "Our marketing team (it's one guy) said to m
 2-4 slides of "Would you rather: renew 30 days early, or explain to the client why the COI expired?" Caption: "comment your picks".
 
 ## Retired / avoid
+- oh-look and weirdly-pretty: only in Oct 5-14 roundups, absent from Oct 16-20 ones; no trend-tagged stats (Postiz publishing still broken). Retired 2026-10-26.
 - propaganda-im-not-falling-for, gold-star-behaviour and how-different-our-lives-are: gone from Oct 14-19 roundups, no trend-tagged stats (Postiz publishing broken since Oct 8). Compare idea lives on in oh-look. Retired 2026-10-19.
 - same-answer-every-time ("Reasons to get a bob", July), prized-possession-then-vs-now (Sept 1) and worth-the-money (July): aged out of Oct roundups; no trend-tagged stats. Worth-the-money ideas can live on as a things-that-just-make-sense list. Retired 2026-10-12.
 - how-could-this-day-get-better and saxophones-getting-louder (Sept trends; gone from Oct roundups, no trend-tagged stats yet). Retired 2026-10-05.
