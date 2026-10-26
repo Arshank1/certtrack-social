@@ -1,0 +1,19 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "navy",
+ "seed": 286,
+ "music": "library",
+ "hook": "Whole roofing crew is on PTO. Someone's gotta *hold it down*.",
+ "contact": "Boss (out of office)",
+ "messages": [
+  {"from": "them", "text": "how's the shop holding up?"},
+  {"from": "me", "text": "crew's at the lake, Mike's hunting, front desk says back monday"},
+  {"from": "them", "text": "love that for everyone"},
+  {"from": "me", "text": "also the contractor license renews friday and 2 truck registrations are due"},
+  {"from": "them", "text": "lol who handles that"},
+  {"from": "me", "text": "me. it's always me."}
+ ],
+ "punchline": "Someone's gotta *hold it down*. Might as well be the calendar.",
+ "cta": false
+}
