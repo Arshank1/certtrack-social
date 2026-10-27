@@ -1,0 +1,19 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 613,
+ "music": "library",
+ "hook": "Tattoo shop owners: 1 new message from *Unknown*",
+ "contact": "Unknown",
+ "messages": [
+  {"from": "them", "text": "I know when your artist licenses expire. Do you? -X"},
+  {"from": "me", "text": "who is this"},
+  {"from": "them", "text": "The bloodborne pathogens certs. Half the crew took the class the same week. Tick tock. -X"},
+  {"from": "me", "text": "we're fine. pretty sure"},
+  {"from": "them", "text": "The shop's health permit renewal went to the old front desk email. -X"},
+  {"from": "me", "text": "...checking the drawer"}
+ ],
+ "punchline": "Block this number. Put every date in *one place*.",
+ "cta": false
+}
