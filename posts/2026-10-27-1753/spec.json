@@ -1,0 +1,23 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 284,
+ "music": "library",
+ "hook": "Dental office managers: answer in *one word*",
+ "contact": "Bestie",
+ "messages": [
+  {"from": "me", "text": "I run the front office at a dental practice. Describe me in one word each"},
+  {"from": "me", "text": "what sound am I"},
+  {"from": "them", "text": "Sigh."},
+  {"from": "me", "text": "what time of year is it for me"},
+  {"from": "them", "text": "Renewals."},
+  {"from": "me", "text": "what object am I"},
+  {"from": "them", "text": "Binder."},
+  {"from": "me", "text": "what am I scared of"},
+  {"from": "them", "text": "Expired."},
+  {"from": "me", "text": "rude. accurate."}
+ ],
+ "punchline": "Licenses, CPR cards, X-ray certs, malpractice policy. One word: *dates*.",
+ "cta": false
+}
