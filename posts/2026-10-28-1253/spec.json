@@ -1,0 +1,17 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "dark",
+ "seed": 517,
+ "music": "library",
+ "hook": "Vet clinic managers: 5 dates you *can't* let lapse",
+ "title": "Vet clinic dates that quietly expire",
+ "items": [
+  {"title": "Liability insurance", "body": "Renewal notices love to land in a vet tech's old inbox."},
+  {"title": "Business & facility permits", "body": "Easy to forget until someone asks to see it."},
+  {"title": "X-ray equipment registration", "body": "Many states want it renewed on their schedule, not yours."},
+  {"title": "DEA registration", "body": "Lapse it and the controlled drugs cabinet stays shut."},
+  {"title": "Every vet's & tech's license", "body": "Different people, different renewal dates, one very bad surprise."}
+ ],
+ "cta": false
+}
