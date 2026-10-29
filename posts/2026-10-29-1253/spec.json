@@ -1,0 +1,41 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 613,
+ "music": "library",
+ "hook": "Home care agency horror story, told in *texts*",
+ "contact": "Scheduler - Night Shift",
+ "messages": [
+  {
+   "from": "them",
+   "text": "quick q. when does Maria's CPR card expire"
+  },
+  {
+   "from": "me",
+   "text": "it's on the spreadsheet"
+  },
+  {
+   "from": "them",
+   "text": "the spreadsheet just says 'ask Dana'"
+  },
+  {
+   "from": "me",
+   "text": "Dana left in March"
+  },
+  {
+   "from": "them",
+   "text": "ok and her driver's license? she drives clients to appointments"
+  },
+  {
+   "from": "them",
+   "text": "also the state surveyor is in the lobby asking for caregiver files"
+  },
+  {
+   "from": "me",
+   "text": "in the lobby like RIGHT NOW?"
+  }
+ ],
+ "punchline": "The scariest thing in a home care office is a *date* nobody wrote down.",
+ "cta": false
+}
