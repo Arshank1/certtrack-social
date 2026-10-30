@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 517,
+ "music": "library",
+ "hook": "Dog groomers: can you pass this *paperwork* quiz?",
+ "title": "Groomer *paperwork* quiz",
+ "questions": [
+  {"q": "Your business license is up for renewal. Does it renew on its own?",
+   "options": ["Yes, automatically", "Usually no, you renew it"],
+   "answer": 1,
+   "why": "Most need a form or a payment. Check your city or county."},
+  {"q": "You run a mobile grooming van. What can expire besides your license?",
+   "options": ["Nothing else", "Registration, insurance, permits"],
+   "answer": 1,
+   "why": "The van has its own dates, and they rarely line up."},
+  {"q": "The insurance renewal email went to an old inbox. Are Saturday's grooms covered?",
+   "options": ["Probably fine", "Don't assume it"],
+   "answer": 1,
+   "why": "Coverage depends on an active policy. Confirm before you book."}
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": false
+}
