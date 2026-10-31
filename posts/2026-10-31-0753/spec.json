@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "navy",
+ "seed": 284,
+ "music": "synth",
+ "hook": "Pool service owners: you have *1 new message*",
+ "contact": "Unknown",
+ "messages": [
+  {"from": "them", "text": "you closed 40 pools for the winter. impressive."},
+  {"from": "them", "text": "but do you know when your truck registration expires? -X"},
+  {"from": "me", "text": "who is this"},
+  {"from": "them", "text": "the HOA asked for your insurance certificate. the one on file is from last season. -X"},
+  {"from": "me", "text": "how do you know that"},
+  {"from": "them", "text": "your pool operator cert renews soon. the reminder went to an email you never check. -X"},
+  {"from": "me", "text": "ok I'm checking the dates right now"}
+ ],
+ "punchline": "Happy Halloween. Block this number: put every *date* in one place.",
+ "cta": false
+}
