@@ -1,0 +1,21 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 517,
+ "music": "library",
+ "hook": "POV: you signed a lease for a *holiday pop-up*",
+ "contact": "Mall Leasing Office",
+ "messages": [
+  {"from": "them", "text": "so excited for your holiday pop-up! a few things before we hand over keys"},
+  {"from": "them", "text": "a certificate of insurance naming the property as additional insured"},
+  {"from": "me", "text": "on it"},
+  {"from": "them", "text": "a copy of your seller's permit"},
+  {"from": "me", "text": "my what"},
+  {"from": "them", "text": "and fire inspection sign-off for the string lights"},
+  {"from": "me", "text": "we open in 9 days"},
+  {"from": "them", "text": "keys the day everything's in!"}
+ ],
+ "punchline": "Holiday pop-ups: the *paperwork* opens before the store does.",
+ "cta": false
+}
