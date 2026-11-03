@@ -1,0 +1,22 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "dark",
+ "seed": 284,
+ "music": "synth",
+ "hook": "Everyone's off for Thanksgiving. *Someone* has to hold it down.",
+ "contact": "Taproom Crew",
+ "messages": [
+  {"from": "them", "text": "ok I'm officially off till Monday"},
+  {"from": "them", "text": "same, phone is going in a drawer"},
+  {"from": "them", "text": "wait who's opening Friday?"},
+  {"from": "me", "text": "me. obviously."},
+  {"from": "them", "text": "oh the distributor needs our updated insurance certificate before Friday's delivery"},
+  {"from": "me", "text": "it's Thursday"},
+  {"from": "them", "text": "and I think the liquor license renewal letter came? it's somewhere in the office"},
+  {"from": "me", "text": "somewhere."},
+  {"from": "them", "text": "you're the best!!"}
+ ],
+ "punchline": "Someone's gotta *hold it down*. Might as well know which dates are coming.",
+ "cta": false
+}
