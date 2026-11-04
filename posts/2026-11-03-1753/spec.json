@@ -1,0 +1,41 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "navy",
+ "seed": 517,
+ "music": "library",
+ "hook": "POV: the wedding is *Saturday* and the venue just texted.",
+ "contact": "Maple Barn Venue",
+ "messages": [
+  {
+   "from": "them",
+   "text": "quick one: we still need your certificate of insurance naming the venue"
+  },
+  {
+   "from": "me",
+   "text": "sent it last year!"
+  },
+  {
+   "from": "them",
+   "text": "that one expired in August"
+  },
+  {
+   "from": "me",
+   "text": "..."
+  },
+  {
+   "from": "them",
+   "text": "no current COI, no setup. venue policy"
+  },
+  {
+   "from": "them",
+   "text": "great! need it by Thursday 5pm"
+  }
+ ],
+ "punchline": "Your gear is ready. Is your *paperwork*?",
+ "cta": {
+  "title": "Know before it expires",
+  "body": "CertTrack tracks your policies and licenses and alerts you before they lapse.",
+  "button": "Link in bio"
+ }
+}
