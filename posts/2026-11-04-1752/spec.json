@@ -1,0 +1,19 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "dark",
+ "seed": 284,
+ "music": "synth",
+ "hook": "Everyone's off for Thanksgiving. Someone's gotta *hold it down*.",
+ "contact": "Clinic Front Office",
+ "messages": [
+  {"from": "them", "text": "reminder: I'm out Wed through Monday!"},
+  {"from": "them", "text": "same, driving to my sister's"},
+  {"from": "me", "text": "cool. who's on the license renewals?"},
+  {"from": "them", "text": "the what"},
+  {"from": "me", "text": "facility license and the liability policy. both renew in December"},
+  {"from": "them", "text": "you've got this!!"}
+ ],
+ "punchline": "Someone's gotta *hold it down*.",
+ "cta": {"title": "Let the dates come to you", "body": "CertTrack tracks your licenses and policies and alerts you before they expire.", "button": "Link in bio"}
+}
