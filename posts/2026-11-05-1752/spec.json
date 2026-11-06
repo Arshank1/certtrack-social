@@ -1,0 +1,18 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "paper",
+ "seed": 642,
+ "music": "library",
+ "trend": "none",
+ "hook": "Plumbers: 5 dates that sneak up on you in *December*",
+ "title": "Plumbing renewals that hide until year-end",
+ "items": [
+  {"title": "The truck registrations", "body": "Every van renews on its own month. None of them ask first."},
+  {"title": "Workers' comp policy", "body": "The renewal email went to the apprentice who left in June."},
+  {"title": "Backflow tester certification", "body": "Where it's required, an expired card means no test reports."},
+  {"title": "Your liability certificate", "body": "The GC wants this year's COI, not the one from last year."},
+  {"title": "Your plumbing license", "body": "Plenty of them renew at year-end. Some want CE hours first."}
+ ],
+ "cta": false
+}
