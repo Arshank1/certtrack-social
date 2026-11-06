@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "paper",
+ "seed": 517,
+ "music": "synth",
+ "trend": "pov-panic",
+ "hook": "POV: you run a tow company and dispatch texts you at *4:51 PM on a Friday*",
+ "contact": "Dispatch - Night Shift",
+ "messages": [
+  {"from": "them", "text": "hey quick one"},
+  {"from": "them", "text": "the city rotation office called. they need our current insurance cert on file"},
+  {"from": "me", "text": "they have it. sent it last year"},
+  {"from": "them", "text": "that's the one they said expired"},
+  {"from": "me", "text": "what time do they close"},
+  {"from": "them", "text": "5"}
+ ],
+ "punchline": "Every renewal date has a *Friday at 4:51* version.",
+ "cta": false
+}
