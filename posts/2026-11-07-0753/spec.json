@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "navy",
+ "seed": 284,
+ "music": "library",
+ "trend": "none",
+ "hook": "Gym owners in November, getting ready for the *January rush*",
+ "contact": "Dani - Head Coach",
+ "messages": [
+  {"from": "them", "text": "january signups are already coming in"},
+  {"from": "me", "text": "love it. are we ready?"},
+  {"from": "them", "text": "new mats. new playlist. new smoothie flavor"},
+  {"from": "me", "text": "and every trainer's CPR cert is current, right?"},
+  {"from": "them", "text": "..."},
+  {"from": "them", "text": "define current"}
+ ],
+ "punchline": "New year, new members, *same expired CPR cards*.",
+ "cta": false
+}
