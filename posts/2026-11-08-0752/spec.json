@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 617,
+ "music": "synth",
+ "trend": "pov-panic",
+ "hook": "POV: HVAC tech, first cold snap of the year, *every furnace* in town quits",
+ "contact": "Marcy - Oak Ridge Apts",
+ "messages": [
+  {"from": "them", "text": "3 units with no heat. can you come today??"},
+  {"from": "me", "text": "on my way, 40 min"},
+  {"from": "them", "text": "perfect. owner needs your current insurance certificate before you go in"},
+  {"from": "me", "text": "sending it now"},
+  {"from": "me", "text": "..."},
+  {"from": "me", "text": "is it a problem if it says 2025"}
+ ],
+ "punchline": "First cold snap: furnaces quit, *certificates expire*.",
+ "cta": false
+}
