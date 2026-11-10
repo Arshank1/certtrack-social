@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "mood": "upbeat",
+ "theme": "amber",
+ "seed": 284,
+ "music": "synth",
+ "trend": "none",
+ "hook": "Food truck owners: 3 questions before *winter* menus",
+ "title": "Food truck *paperwork* quiz",
+ "questions": [
+  {"q": "You got your health permit last year. Good forever?",
+   "options": ["Yes, it's done", "No, it has a date"],
+   "answer": 1,
+   "why": "Most permits renew on a schedule. Check the date on yours."},
+  {"q": "Besides the permit, what else on the truck can expire?",
+   "options": ["Nothing", "Registration, insurance, inspections"],
+   "answer": 1,
+   "why": "The truck, the kitchen and the business all have their own dates."},
+  {"q": "The holiday market wants your insurance certificate. Is the one from spring OK?",
+   "options": ["Send it", "Check the dates first"],
+   "answer": 1,
+   "why": "Event organizers often require a current certificate."}
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": {"title": "Know every date before the market does.", "body": "CertTrack tracks expiration dates and alerts you before they expire.", "button": "Link in bio"}
+}
