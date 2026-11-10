@@ -148,7 +148,10 @@ def render(slide, idx, total, W, H):
         y = draw_block(d, wrap(d, slide["title"], t, maxw), t, pad, top + 40, INK, 12)
         if slide.get("body"):
             b = font("Regular", 44)
-            draw_block(d, wrap(d, slide["body"], b, maxw), b, pad, y + 36, (70, 78, 92), 14)
+            y = draw_block(d, wrap(d, slide["body"], b, maxw), b, pad, y + 36, (70, 78, 92), 14)
+        if slide.get("fine"):  # tiny fine-print text (tiny-text-reveal trend)
+            f = font("Regular", 24)
+            draw_block(d, wrap(d, slide["fine"], f, maxw), f, pad, y + 30, MUTED, 6)
 
     # progress dots
     for i in range(total):
