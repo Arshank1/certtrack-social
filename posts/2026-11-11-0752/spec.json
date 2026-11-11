@@ -1,0 +1,29 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "dark",
+ "seed": 517,
+ "music": "library",
+ "trend": "none",
+ "hook": "Electricians: 3 dates that sneak up in *December*",
+ "title": "3 dates electricians *forget*",
+ "items": [
+  {
+   "title": "Your license",
+   "body": "Many states renew on a cycle, sometimes with CE hours due first."
+  },
+  {
+   "title": "Your COI",
+   "body": "GCs often want a current certificate before the next job starts."
+  },
+  {
+   "title": "Van registrations",
+   "body": "Every van has its own renewal month. Nobody remembers which."
+  }
+ ],
+ "cta": {
+  "title": "Every renewal date, one place.",
+  "body": "CertTrack tracks expirations and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
