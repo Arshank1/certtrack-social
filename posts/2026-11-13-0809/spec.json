@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "mood": "playful",
+ "theme": "navy",
+ "seed": 617,
+ "music": "library",
+ "trend": "none",
+ "hook": "Bar owners: 3 questions before *New Year's Eve*",
+ "title": "NYE *paperwork* quiz",
+ "questions": [
+  {"q": "Your liquor license was renewed once. Is it good forever?",
+   "options": ["Yes, it's on the wall", "No, it has a date"],
+   "answer": 1,
+   "why": "Liquor licenses renew on a schedule. Check the date on yours."},
+  {"q": "You hired 3 extra bartenders for December. What do you check first?",
+   "options": ["Their playlist", "Their server certifications"],
+   "answer": 1,
+   "why": "Many areas require server training cards, and they expire too."},
+  {"q": "Running a NYE event out on the patio. Is your normal permit enough?",
+   "options": ["Probably fine", "Check with the city first"],
+   "answer": 1,
+   "why": "Special events can need their own permits. Ask early."}
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": {"title": "Midnight is for the countdown, not the paperwork.", "body": "CertTrack tracks expiration dates and alerts you before they expire.", "button": "Link in bio"}
+}
