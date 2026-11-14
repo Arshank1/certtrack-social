@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "mood": "upbeat",
+ "theme": "amber",
+ "seed": 342,
+ "music": "synth",
+ "trend": "none",
+ "hook": "Tattoo shop owners: 3 questions about your *paperwork*",
+ "title": "Tattoo shop *paperwork* quiz",
+ "questions": [
+  {"q": "The shop license is framed by the front desk. Good forever?",
+   "options": ["Yes, it's framed", "No, it has a renewal date"],
+   "answer": 1,
+   "why": "Shop licenses renew on a schedule. The frame doesn't."},
+  {"q": "A guest artist is booked for December. What do you check first?",
+   "options": ["Their Instagram", "Their artist license and certs"],
+   "answer": 1,
+   "why": "Many areas require each artist to hold current credentials."},
+  {"q": "Your bloodborne pathogens training was in 2023. Still current?",
+   "options": ["Training is training", "Check the expiration"],
+   "answer": 1,
+   "why": "These certifications often need renewing. Look at the date."}
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": {"title": "Ink is permanent. *Licenses* aren't.", "body": "CertTrack tracks expiration dates and alerts you before they expire.", "button": "Link in bio"}
+}
