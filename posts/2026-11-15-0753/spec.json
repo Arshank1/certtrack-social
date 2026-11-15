@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "dark",
+ "seed": 641,
+ "music": "library",
+ "trend": "pov-panic",
+ "hook": "POV: your cousin is opening a *Christmas tree* lot",
+ "contact": "Cousin Mike - Tree Lot",
+ "messages": [
+  {"from": "them", "text": "trees arrive friday!! 300 of them"},
+  {"from": "me", "text": "love it. you got the seasonal permit from the city?"},
+  {"from": "them", "text": "the what"},
+  {"from": "me", "text": "the permit. and the tent permit. and insurance for the lot"},
+  {"from": "them", "text": "the landlord just asked for a COI too"},
+  {"from": "them", "text": "is that a type of tree"}
+ ],
+ "punchline": "It is *not* a type of tree.",
+ "cta": {"title": "Seasonal business, same paperwork.", "body": "CertTrack keeps every permit and policy date in one place and alerts you before it expires.", "button": "Link in bio"}
+}
