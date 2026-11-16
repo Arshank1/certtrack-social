@@ -1,0 +1,15 @@
+{
+ "format": "countdown",
+ "mood": "upbeat",
+ "theme": "navy",
+ "seed": 384,
+ "music": "synth",
+ "trend": "its-november",
+ "title": "Event venues: it's *November*. You know what that means.",
+ "items": [
+  {"title": "Finding out which permits renew *Dec 31*", "body": "Liquor license, occupancy, fire inspection. Check the dates now, not on Dec 30."},
+  {"title": "Holiday hires who need their cards", "body": "New servers and bartenders: food handler and server cards current before shift one."},
+  {"title": "Party bookings every single weekend", "body": "Plus half the weekdays. Plus the office party that wants a Tuesday."}
+ ],
+ "cta": {"title": "Busy season, same paperwork.", "body": "CertTrack keeps every license, permit and policy date in one place and alerts you before it expires.", "button": "Link in bio"}
+}
