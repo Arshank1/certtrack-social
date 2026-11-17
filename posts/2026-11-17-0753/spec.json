@@ -1,0 +1,36 @@
+{
+ "format": "quiz",
+ "mood": "upbeat",
+ "theme": "paper",
+ "seed": 617,
+ "music": "library",
+ "trend": "none",
+ "hook": "Notaries: 2 questions about your *commission*",
+ "title": "Notary *commission* quiz",
+ "questions": [
+  {
+   "q": "The date on your stamp passed last week. Signing at 3 PM?",
+   "options": [
+    "If nobody looks closely",
+    "Not until I'm renewed"
+   ],
+   "answer": 1,
+   "why": "An expired commission generally means no notarizing until you renew."
+  },
+  {
+   "q": "Your bond and E&O policy renew on...",
+   "options": [
+    "The same day, probably",
+    "Their own dates. Check."
+   ],
+   "answer": 1,
+   "why": "They can run on separate terms. Write each date down."
+  }
+ ],
+ "payoff": "How many did you get? Comment your score.",
+ "cta": {
+  "title": "Your stamp *expires*. So does everything else.",
+  "body": "CertTrack tracks expiration dates and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
