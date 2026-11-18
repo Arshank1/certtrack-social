@@ -1,0 +1,15 @@
+{
+ "format": "countdown",
+ "mood": "confident",
+ "theme": "amber",
+ "seed": 742,
+ "music": "synth",
+ "trend": "none",
+ "title": "Tax preparers: 3 things to renew before *filing season*",
+ "items": [
+  {"title": "Your PTIN. It expires *Dec 31*.", "body": "Every year. Renew it now, before January gets loud."},
+  {"title": "License or CE hours", "body": "If your state or credential requires them, check the deadline today."},
+  {"title": "Your E&O policy", "body": "Know the renewal date before 60-hour weeks start."}
+ ],
+ "cta": {"title": "Deadlines are your job. Your *own* shouldn't be.", "body": "CertTrack tracks expiration dates and alerts you before they expire.", "button": "Link in bio"}
+}
