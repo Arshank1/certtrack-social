@@ -1,0 +1,32 @@
+{
+ "format": "quiz",
+ "mood": "upbeat",
+ "theme": "amber",
+ "seed": 284,
+ "music": "synth",
+ "trend": "this-or-that",
+ "hook": "HVAC office: this or *that*?",
+ "title": "HVAC office in heating season: this or *that*?",
+ "questions": [
+  {
+   "q": "Your liability policy renews Dec 1. When do you send clients the new COI?",
+   "options": [
+    "When someone asks",
+    "Before Dec 1, unasked"
+   ],
+   "answer": 1,
+   "why": "Commercial clients often want it before the old one runs out."
+  },
+  {
+   "q": "A tech's license expires next month. Who needs to know?",
+   "options": [
+    "Just the tech",
+    "Tech + whoever books the jobs"
+   ],
+   "answer": 1,
+   "why": "Dispatch can't plan around a date nobody told them."
+  }
+ ],
+ "payoff": "Comment your picks.",
+ "cta": false
+}
