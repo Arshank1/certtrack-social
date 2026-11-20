@@ -1,0 +1,38 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "dark",
+ "seed": 642,
+ "music": "library",
+ "trend": "pov-panic",
+ "hook": "POV: the venue asks for your *COI* two days before mini sessions",
+ "contact": "Marisol - Winery Events",
+ "messages": [
+  {
+   "from": "them",
+   "text": "for saturday's mini sessions we need your certificate of insurance"
+  },
+  {
+   "from": "me",
+   "text": "of course, sending it now"
+  },
+  {
+   "from": "them",
+   "text": "this one expired in september"
+  },
+  {
+   "from": "me",
+   "text": "that's the vintage one. very on brand for a winery"
+  },
+  {
+   "from": "them",
+   "text": "need the current one by friday or we can't let you set up"
+  }
+ ],
+ "punchline": "40 families booked. 400 photos to edit. *0 idea* when the insurance renewed.",
+ "cta": {
+  "title": "Track the *expiration dates*, not just the bookings.",
+  "body": "CertTrack tracks insurance, license and permit expirations and alerts you before they expire.",
+  "button": "Link in bio"
+ }
+}
