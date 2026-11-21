@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "amber",
+ "seed": 317,
+ "music": "synth",
+ "trend": "email-is-down",
+ "hook": "Email is down at the shop. New *holiday*.",
+ "contact": "Front Desk - Mike's Auto",
+ "messages": [
+  {"from": "them", "text": "email is down"},
+  {"from": "me", "text": "so no 'URGENT: updated COI needed today' emails?"},
+  {"from": "them", "text": "zero. it's basically a holiday"},
+  {"from": "me", "text": "perfect. i finally opened the paper mail"},
+  {"from": "them", "text": "and??"},
+  {"from": "me", "text": "the garage insurance renewal was in there. from october"}
+ ],
+ "punchline": "Email came back at 2 PM. So did the *COI request*.",
+ "cta": false
+}
