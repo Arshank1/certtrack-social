@@ -1,0 +1,20 @@
+{
+ "format": "texts",
+ "mood": "tense",
+ "theme": "navy",
+ "seed": 648,
+ "music": "library",
+ "trend": "pov-panic",
+ "hook": "POV: snow is in the forecast and the property manager wants your *COI*",
+ "contact": "Dana - Maple Ridge Plaza",
+ "messages": [
+  {"from": "them", "text": "forecast says 6 inches thursday night"},
+  {"from": "them", "text": "need your updated insurance certificate before you plow the lot"},
+  {"from": "me", "text": "sending it now"},
+  {"from": "me", "text": "...the one on file says it expired in october"},
+  {"from": "them", "text": "so is that a no?"},
+  {"from": "me", "text": "that's a 'calling my agent right now'"}
+ ],
+ "punchline": "First snow of the year. First time anyone checked the *dates*.",
+ "cta": false
+}
