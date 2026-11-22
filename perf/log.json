@@ -733,5 +733,28 @@
    "#restaurantowner"
   ],
   "brand": "certtrack"
+ },
+ {
+  "date": "2026-11-22-1253",
+  "postiz_id": "cmwsbfn180he5pk07hxp72kk4",
+  "format": "quiz",
+  "mood": "playful",
+  "theme": "amber",
+  "track": "synth",
+  "trend": "none",
+  "cta": "none",
+  "topic": "Fleet owners year-end quiz: driver medical card expired but CDL valid, registration notice never came, renewed policy but old COI sent; IG slides as myth/fact",
+  "angle": "quiz",
+  "industry": "fleets/trucking",
+  "hook": "Fleet owners: 3 questions before Dec 31",
+  "caption": "Three year-end questions every fleet owner should get right before Dec 31.",
+  "hashtags": [
+   "#businesstok",
+   "#businessowner",
+   "#truckertok",
+   "#trucking"
+  ],
+  "seconds": 26,
+  "brand": "certtrack"
  }
 ]
