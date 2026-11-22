@@ -1,0 +1,7 @@
+{"format":"quiz","mood":"playful","theme":"amber","seed":417,"music":"synth","cta":false,
+ "title":"Fleet owners: 3 questions before *Dec 31*",
+ "questions":[
+  {"q":"Driver's medical card expired. CDL is still valid. Keep driving?","options":["Sure, the CDL is fine","Not so fast"],"answer":1,"why":"A lapsed medical card can sideline a driver even with a valid CDL."},
+  {"q":"Registration renewal notice never showed up. Whose problem?","options":["The DMV's","Yours"],"answer":1,"why":"No notice rarely gets you off the hook. The date is still yours."},
+  {"q":"Policy renewed, but the COI you send says it expired last week. Fine?","options":["Close enough","Send the updated one"],"answer":1,"why":"Clients read the dates on the certificate, not your intentions."}
+ ]}
