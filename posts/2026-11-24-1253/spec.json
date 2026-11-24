@@ -1,0 +1,31 @@
+{
+ "format": "kinetic",
+ "mood": "confident",
+ "theme": "dark",
+ "seed": 268,
+ "music": "synth",
+ "hook": "Running a PT clinic: expectation vs reality",
+ "lines": [
+  {
+   "label": "Expectation vs reality",
+   "text": "Running a PT clinic in *December*"
+  },
+  {
+   "label": "Expectation",
+   "text": "Helping patients hit their goals"
+  },
+  {
+   "label": "Reality",
+   "text": "Finding whose *CPR card* expires first"
+  },
+  {
+   "label": "Reality",
+   "text": "The renewal notice went to an *old email*"
+  },
+  {
+   "label": "Reality",
+   "text": "Check the dates *before* January does"
+  }
+ ],
+ "cta": false
+}

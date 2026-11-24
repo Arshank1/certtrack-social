@@ -219,7 +219,7 @@ def build_kinetic(spec, bpm):
             if label:
                 d.text((SL, y0 - 100), label.upper(), font=font("Bold", 44), fill=T["accent"])
             for (k, w, x, y, hl, wd) in layout:
-                ti = k * step - (step * 1.5 if first else 0)  # first frame of video already shows text
+                ti = -1.0 if first else k * step  # first line is fully on screen from frame 1 (readable hook)
                 if t < ti: continue
                 p = clamp((t - ti) / 0.16)
                 s = 0.6 + 0.4 * ease_back(p)
@@ -234,7 +234,7 @@ def build_kinetic(spec, bpm):
                     f2 = font("Black", fs)
                     d.text((x + wd * (1 - s) / 2, y + fnt.size * (1 - s) / 2), w, font=f2, fill=col)
             brand_badge(img, d, th in ("navy", "dark"))
-        sfx = [(max(0, i * step - (step * 1.5 if first else 0)), "pop") for i in range(0, k, 3)]
+        sfx = [(0, "pop")] if first else [(i * step, "pop") for i in range(0, k, 3)]
         scenes.append(Scene(dur, draw, ([(0, "whoosh")] if li else []) + sfx[: 4]))
     return scenes
 
