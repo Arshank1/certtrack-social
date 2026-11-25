@@ -104,13 +104,15 @@ def render(slide, idx, total, W, H):
     elif kind == "myth":
         lab = font("Bold", 40)
         RED, GRN = (200, 60, 50), (30, 140, 90)
-        d.rounded_rectangle((pad, top - 120, pad + 170, top - 50), radius=35, fill=RED)
-        d.text((pad + 36, top - 109), "MYTH", font=lab, fill=PAPER)
+        ml = slide.get("myth_label", "MYTH").upper(); fl = slide.get("fact_label", "FACT").upper()
+        mw = int(d.textlength(ml, font=lab)) + 72; fw = int(d.textlength(fl, font=lab)) + 76
+        d.rounded_rectangle((pad, top - 120, pad + mw, top - 50), radius=35, fill=RED)
+        d.text((pad + 36, top - 109), ml, font=lab, fill=PAPER)
         t = font("Bold", 62)
         y = draw_block(d, wrap(d, slide["myth"], t, maxw), t, pad, top, (110, 115, 125), 12)
         y += 70
-        d.rounded_rectangle((pad, y, pad + 160, y + 70), radius=35, fill=GRN)
-        d.text((pad + 38, y + 11), "FACT", font=lab, fill=PAPER)
+        d.rounded_rectangle((pad, y, pad + fw, y + 70), radius=35, fill=GRN)
+        d.text((pad + 38, y + 11), fl, font=lab, fill=PAPER)
         b = font("SemiBold", 52)
         draw_block(d, wrap(d, slide["fact"], b, maxw), b, pad, y + 120, INK, 14)
     elif kind == "checklist":

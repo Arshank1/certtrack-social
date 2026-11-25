@@ -1,0 +1,9 @@
+{"format":"slideshow","trend":"exactly-what-to-say","slides":[
+ {"kind":"hook","title":"Movers: when the building manager asks for your COI the day before the move, here's exactly what to say.","body":"(and what not to say.)"},
+ {"kind":"myth","myth_label":"don't say","fact_label":"say","myth":"\"I think we sent you one last year?\"","fact":"\"I'll send a current certificate today. What do you need listed on it?\""},
+ {"kind":"myth","myth_label":"don't say","fact_label":"say","myth":"\"Can we just do the move and send it after?\"","fact":"\"Let me get it from our agent now so nothing holds up the elevator.\""},
+ {"kind":"myth","myth_label":"don't say","fact_label":"say","myth":"\"Don't worry, our insurance is definitely active.\"","fact":"\"Let me check the policy dates and get right back to you.\""},
+ {"kind":"statement","label":"then","title":"actually read the expiration date before you hit send.","body":"a certificate that ended in October helps nobody on moving day."},
+ {"kind":"cta","title":"CertTrack tracks your insurance, licenses and permits for you.","body":"and alerts you before anything expires, not the night before a move.","button":"Link in bio"},
+ {"kind":"statement","label":"save this","title":"for the next 4:55 PM \"need your COI for tomorrow\" email.","body":"december moving season is coming."}
+]}
