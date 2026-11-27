@@ -1,0 +1,22 @@
+{
+ "format": "texts",
+ "mood": "playful",
+ "theme": "paper",
+ "seed": 417,
+ "music": "synth",
+ "trend": "this-is-your-sign",
+ "hook": "Thanksgiving night, bakery owner edition: this is your *sign*",
+ "contact": "Sis (weekend counter help)",
+ "messages": [
+  {"from": "them", "text": "how many pies did you sell today"},
+  {"from": "me", "text": "all of them. every single pie."},
+  {"from": "them", "text": "so you get a break till christmas?"},
+  {"from": "me", "text": "cookie preorders open monday"},
+  {"from": "them", "text": "isn't your health permit due for renewal soon"},
+  {"from": "me", "text": "no it's"},
+  {"from": "me", "text": "...it's in december"},
+  {"from": "them", "text": "this is your sign"}
+ ],
+ "punchline": "Pie season is over. Permit season is *not*.",
+ "cta": false
+}
