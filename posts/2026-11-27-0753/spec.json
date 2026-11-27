@@ -1,0 +1,41 @@
+{
+ "format": "slideshow",
+ "trend": "unpopular-opinion",
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "Unpopular opinion: \"we've worked here before\" is not a COI.",
+   "body": "event venues, this one's for you."
+  },
+  {
+   "kind": "statement",
+   "label": "exhibit a",
+   "title": "The DJ's COI from last year's party is a souvenir.",
+   "body": "If it doesn't cover the event date, it doesn't cover the event."
+  },
+  {
+   "kind": "statement",
+   "label": "exhibit b",
+   "title": "Asking every vendor for a current COI isn't rude.",
+   "body": "It's the job. The good vendors have one ready before you ask."
+  },
+  {
+   "kind": "statement",
+   "label": "exhibit c",
+   "title": "Ask for it with the booking, not the morning of setup.",
+   "body": "7:45 AM with the caterer's van in the lot is not the time to read dates."
+  },
+  {
+   "kind": "statement",
+   "label": "exhibit d",
+   "title": "Your own paperwork counts too.",
+   "body": "Liquor license, occupancy permit, liability policy. Know the dates before holiday party season peaks."
+  },
+  {
+   "kind": "statement",
+   "label": "agree or disagree?",
+   "title": "\"Same as last time\" is not a date.",
+   "body": "Save this for the next vendor who says it."
+  }
+ ]
+}
