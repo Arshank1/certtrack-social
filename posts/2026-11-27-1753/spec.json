@@ -1,0 +1,31 @@
+{
+ "format": "alerts",
+ "mood": "dramatic",
+ "theme": "dark",
+ "seed": 284,
+ "music": "library",
+ "trend": "pov-panic",
+ "hook": "POV: restaurant GM checks the renewal dates *before* December does",
+ "clock": "11:48",
+ "date": "Friday, November 27",
+ "setup": "After close, Black Friday. One last *check*.",
+ "alerts": [
+  {
+   "title": "Health permit renews Dec 31",
+   "body": "Renewal form is already in. Not a Dec 30 problem.",
+   "when": "now"
+  },
+  {
+   "title": "Liquor license renewal",
+   "body": "Notice found. It went to the right email this year.",
+   "when": "now"
+  },
+  {
+   "title": "Food handler cards: 3 new hires",
+   "body": "Two uploaded. One is still 'in my car'.",
+   "when": "now"
+  }
+ ],
+ "payoff": "Holiday rush: chaos. Paperwork: *handled*.",
+ "cta": false
+}
