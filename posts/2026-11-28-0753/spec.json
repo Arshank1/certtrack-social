@@ -1,0 +1,13 @@
+{
+ "format": "slideshow",
+ "trend": "its-november",
+ "slides": [
+  {"kind": "hook", "title": "It's November... landscapers, you know what that means.", "body": "the mowers are done. the paperwork is not."},
+  {"kind": "statement", "label": "one", "title": "Mowers into storage.", "body": "Plow blades onto the trucks."},
+  {"kind": "statement", "label": "two", "title": "Is the plow truck's registration current?", "body": "Find out in the driveway, not on the side of the road during the first storm."},
+  {"kind": "statement", "label": "three", "title": "Snow clients want your COI.", "body": "Property managers often ask before the season starts. Make sure the dates on it cover the winter."},
+  {"kind": "statement", "label": "four", "title": "Plowing isn't mowing.", "body": "Ask your agent whether your policy covers snow and ice work before you take the contracts."},
+  {"kind": "statement", "label": "five", "title": "Licenses that renew over winter.", "body": "Business license, applicator license, whatever yours is. Check the date while it's quiet."},
+  {"kind": "statement", "label": "save this", "title": "It's time. (to check the renewal dates.)", "body": "Save it for the first snow forecast. Which one did you forget last year?"}
+ ]
+}
